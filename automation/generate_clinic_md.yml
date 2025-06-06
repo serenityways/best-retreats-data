@@ -4,7 +4,7 @@ on:
   push:
     paths:
       - 'json/**.json'   # Trigger when JSON files change
-      - '.github/automation/generate-clinic-md.yml'
+      - '.github/automation/generate_clinic_md.yml'
   workflow_dispatch:     # Allow manual trigger
 
 jobs:
@@ -23,7 +23,7 @@ jobs:
       - name: Run the markdown generator
         run: |
           pip install -r requirements.txt || true
-          python generate-clinic-md.py
+          python generate_clinic_md.py
 
       - name: Commit changes
         run: |
