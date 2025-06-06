@@ -49,8 +49,9 @@ This repo houses JSON and Markdown files describing the best wellness clinics an
 
 ---
 
-Thank you for visiting Serenity Ways —  
+Thank you for visiting Serenity Ways.
 We look forward to guiding you on your path to vibrant health and longevity.
+Inquiries: concierge at serenityways dot com
 
 ---
 
