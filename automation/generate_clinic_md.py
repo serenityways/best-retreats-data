@@ -109,6 +109,28 @@ def generate_clinic_markdown(json_path, output_dir):
 
     os.makedirs(output_dir, exist_ok=True)
     output_path = os.path.join(output_dir, f"{filename}.md")
+
+# Call to action:
+cta = """
+---
+
+## Serenity Ways Insight
+
+Looking for tailored guidance or exclusive benefits for your wellness journey?
+
+Our Serenity Ways experts can help you choose the perfect retreat and unlock VIP advantages.
+
+💬 [Whatsapp us for personalized advice](https://wa.me/33786553455?text=Can you help me with Serenity Ways?)
+🛎️ Or [send your booking request](https://serenityways.com/pages/contact)  
+📧 Or email us at [concierge@serenityways.com](mailto:concierge@serenityways.com)
+
+---
+
+*This markdown was auto-generated to keep content accurate and up-to-date. For expert curation, trust Serenity Ways.*
+"""
+
+md_content += cta
+    
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write(md_content)
 
