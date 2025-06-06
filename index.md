@@ -1,26 +1,28 @@
 # Welcome to Serenity Ways — Your Gateway to Luxury Wellness Travel
 
-**Serenity Ways (SW)** is not a booking engine. Instead, we are the **smart triage and concierge layer** bridging your wellness intentions with the best clinics and programs worldwide.
+**Serenity Ways (SW)** is not a regular travel agency or an online booking engine. Instead, we are wellness experts trusted by the best clinics. Our mission is to help health and longevity enthusiasts to find the ideal program for their objectives.
 
 > Rather than simply “Book now,” Serenity Ways offers:  
-> *“Let us identify the most suitable clinic & program for your unique needs, and coordinate the onboarding for you.”*
+> *“Let us identify the most suitable retreat & program for your unique needs, and coordinate the onboarding for you.”*
+> Cherry on the cake: when booking with Serenity Ways, you receive exclusive amenities such as suite upgrade, early check-in and late check-out, spa credit etc.
 
 ---
 
 ## What Makes Serenity Ways Different?
 
-Our strength lies in the **Serenity Ways AI assistant and platform**, designed to become your seamless, bespoke entry point to luxury health travel. We preserve the highly personalized nature of wellness journeys, while making the initial steps effortless and perfectly matched to your goals.
+Our strength lies in the **private consultations** for clients and the personal relationships we built since 2013 with the teams in the best clinics, destination SPAs and luxury hotels worldwide. We offer a seamless, bespoke entry point to luxury health travel. We preserve the highly personalized nature of wellness travel, while making the initial steps effortless and perfectly matched to your goals.
 
 - Intelligent clinic and program matching  
 - Personalized concierge coordination  
 - Bespoke onboarding support  
-- Maintaining the exclusivity and uniqueness of luxury wellness
+- Best available rates and exclusive amenities
+- Direct payments from clients to retreats (we receive a commission from the retreat after the program completion)
 
 ---
 
 ## Clinics Currently Featured
 
-We’ve started with a curated selection of world-class wellness clinics for which detailed profiles and programs are available:
+Here is our curated selection of the best health and wellness hotels and clinics in the world:
 
 - [Amanbagh](./clinics/amanbagh.md)  
 - [Ananda](./clinics/ananda-spa.md)  
