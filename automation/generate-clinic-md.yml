@@ -4,7 +4,7 @@ on:
   push:
     paths:
       - 'json/**.json'   # Trigger when JSON files change
-      - '.github/workflows/generate-md.yml'
+      - '.github/automation/generate-clinic-md.yml'
   workflow_dispatch:     # Allow manual trigger
 
 jobs:
