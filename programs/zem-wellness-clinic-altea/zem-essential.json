@@ -7,69 +7,18 @@
   "Long description (500 characters)": "ZEM’s Essential Program is designed as an ideal introduction to the clinic’s integrative health philosophy. Across three nights, guests benefit from high-impact diagnostics, therapeutic sessions, and access to the regenerative spa. This holistic retreat balances medical science with personalized wellness care, offering a deep reset for mind and body within a luxurious Mediterranean setting.",
   "Available durations": "3, 7, 14 and 21 nights",
   "Starting price": "From €5,000",
-  "StartingPriceInclusions": "The starting price includes the ZEM Essential Program, a 3-night stay in a Deluxe suite (double use) and the full board.",
-  "Pricing": [
-    {
-      "RoomCategory": "Deluxe Suite",
-      "Occupancy": "Double",
-      "Durations": {
-        "3 nights": "€5,000",
-        "7 nights": "€8,000",
-        "14 nights": "€16,000",
-        "21 nights": "€24,000"
-      }
-    },
-    {
-      "RoomCategory": "Deluxe Suite",
-      "Occupancy": "Single",
-      "Durations": {
-        "3 nights": "€6,200",
-        "7 nights": "€10,800",
-        "14 nights": "€21,600",
-        "21 nights": "€32,400"
-      }
-    },
-    {
-      "RoomCategory": "Premium Deluxe or Feng Shui Suite",
-      "Occupancy": "Double",
-      "Durations": {
-        "3 nights": "€5,300",
-        "7 nights": "€8,700",
-        "14 nights": "€17,400",
-        "21 nights": "€26,100"
-      }
-    },
-    {
-      "RoomCategory": "Premium Deluxe or Feng Shui Suite",
-      "Occupancy": "Single",
-      "Durations": {
-        "3 nights": "€6,500",
-        "7 nights": "€11,500",
-        "14 nights": "€23,000",
-        "21 nights": "€34,500"
-      }
-    },
-    {
-      "RoomCategory": "Junior Suite Deluxe",
-      "Occupancy": "Double",
-      "Durations": {
-        "3 nights": "€6,800",
-        "7 nights": "€12,200",
-        "14 nights": "€20,900",
-        "21 nights": "€36,600"
-      }
-    },
-    {
-      "RoomCategory": "Junior Suite Deluxe",
-      "Occupancy": "Single",
-      "Durations": {
-        "3 nights": "€8,000",
-        "7 nights": "€15,000",
-        "14 nights": "€30,000",
-        "21 nights": "€45,000"
-      }
-    }
-  ],
+  "StartingPriceInclusions": "The starting price includes a 3-night stay in a Deluxe Suite with double occupancy, medical intake and review, health diagnostics, bioenergetic tests, one IV infusion, one energy therapy, one aesthetic or physiotherapy session, customized nutritional consultation, full board with ZEM Essential Nutritional Plan, and free access to the regenerative spa.",
+  "PricingTable": {
+    "headers": ["Room Category", "Occupancy", "3 nights", "7 nights", "14 nights", "21 nights"],
+    "rows": [
+      ["Deluxe Suite", "Double", "€5,000", "€8,000", "€16,000", "€24,000"],
+      ["Deluxe Suite", "Single", "€6,200", "€10,800", "€21,600", "€32,400"],
+      ["Premium Deluxe or Feng Shui Suite", "Double", "€5,300", "€8,700", "€17,400", "€26,100"],
+      ["Premium Deluxe or Feng Shui Suite", "Single", "€6,500", "€11,500", "€23,000", "€34,500"],
+      ["Junior Suite Deluxe", "Double", "€6,800", "€12,200", "€20,900", "€36,600"],
+      ["Junior Suite Deluxe", "Single", "€8,000", "€15,000", "€30,000", "€45,000"]
+    ]
+  },
   "Standard duration (days and nights)": "4 days / 3 nights",
   "Standard duration (number of nights)": 3,
   "Standard duration (number of days)": 4,
