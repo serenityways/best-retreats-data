@@ -3,8 +3,31 @@ import os
 import re
 
 def sanitize_filename(name):
-    """Converts clinic name to lowercase hyphenated filename"""
+    """Converts name to lowercase hyphenated filename (e.g. 'ZEM Wellness Clinic Altea' -> 'zem-wellness-clinic-altea')"""
     return re.sub(r'[^a-z0-9\-]', '', name.lower().replace(" ", "-"))
+
+def get_program_titles(clinic_filename_base):
+    """Looks for JSON files in /programs/[clinic-name]/ and extracts 'Title' from each"""
+    program_dir = os.path.join("programs", clinic_filename_base)
+    program_titles = []
+
+    if not os.path.isdir(program_dir):
+        return program_titles  # Gracefully handle missing directory
+
+    for file in os.listdir(program_dir):
+        if file.endswith(".json"):
+            file_path = os.path.join(program_dir, file)
+            try:
+                with open(file_path, "r", encoding="utf-8") as f:
+                    data = json.load(f)
+                    title = data.get("Title")
+                    if title:
+                        program_titles.append(title)
+            except Exception as e:
+                print(f"⚠️ Could not load program file: {file_path}. Reason: {e}")
+                continue
+
+    return program_titles
 
 def generate_clinic_markdown(json_path, output_dir):
     with open(json_path, 'r', encoding='utf-8') as f:
@@ -38,11 +61,37 @@ def generate_clinic_markdown(json_path, output_dir):
         if q and a:
             faqs.append((q, a))
 
-    # Create markdown content
+    # Get related programs
+    program_titles = get_program_titles(filename)
+    if program_titles:
+        programs_section = "## Programs at This Clinic\n\n" + "\n".join([f"- {title}" for title in program_titles]) + "\n\n"
+    else:
+        programs_section = ""
+
+    # CTA
+    cta = """
+---
+
+## Serenity Ways Insight
+
+Looking for tailored guidance or exclusive benefits for your wellness journey?
+
+Our Serenity Ways experts can help you choose the perfect retreat and unlock VIP advantages.
+
+💬 [Whatsapp us for personalized advice](https://wa.me/33786553455?text=Can you help me with Serenity Ways?)
+🛎️ Or [send your booking request](https://serenityways.com/pages/contact)
+📧 Or email us at [concierge@serenityways.com](mailto:concierge@serenityways.com)
+
+---
+
+*This markdown was auto-generated to keep content accurate and up-to-date. For expert curation, trust Serenity Ways.*
+"""
+
+    # Combine all content
     md_content = f"""# {name}
 
-**Location:** {location}  
-**Address:** {address}  
+**Location:** {location}
+**Address:** {address}
 **Languages Spoken:** {languages}
 
 ---
@@ -61,8 +110,8 @@ def generate_clinic_markdown(json_path, output_dir):
 
 ## Unique Strengths
 
-- {usp1}  
-- {usp2}  
+- {usp1}
+- {usp2}
 - {usp3}
 
 ---
@@ -89,56 +138,34 @@ def generate_clinic_markdown(json_path, output_dir):
 
 ## Practical Information
 
-**Location Highlights:** {highlights}  
-**Access:** {access}  
-**Family Friendly:** {family}  
+**Location Highlights:** {highlights}
+**Access:** {access}
+**Family Friendly:** {family}
 **Pet Friendly:** {pet}
 
 ---
 
 ## Booking & Cancellation
 
-**Booking Policy:** {booking_policy}  
+**Booking Policy:** {booking_policy}
 **Cancellation Policy:** {cancel_policy}
 
 ---
 
 ## FAQs
 
-""" + "\n\n".join([f"**Q: {q}**\n\nA: {a}" for q, a in faqs]) + "\n"
+""" + "\n\n".join([f"**Q: {q}**\n\nA: {a}" for q, a in faqs]) + "\n\n" + programs_section + cta
 
     os.makedirs(output_dir, exist_ok=True)
     output_path = os.path.join(output_dir, f"{filename}.md")
-
-# Call to action:
-cta = """
----
-
-## Serenity Ways Insight
-
-Looking for tailored guidance or exclusive benefits for your wellness journey?
-
-Our Serenity Ways experts can help you choose the perfect retreat and unlock VIP advantages.
-
-💬 [Whatsapp us for personalized advice](https://wa.me/33786553455?text=Can you help me with Serenity Ways?)
-🛎️ Or [send your booking request](https://serenityways.com/pages/contact)  
-📧 Or email us at [concierge@serenityways.com](mailto:concierge@serenityways.com)
-
----
-
-*This markdown was auto-generated to keep content accurate and up-to-date. For expert curation, trust Serenity Ways.*
-"""
-
-md_content += cta
-    
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write(md_content)
 
     print(f"✅ Generated markdown: {output_path}")
 
-# Example usage:
+# Example usage
 if __name__ == "__main__":
-    input_dir = "./clinics"  
+    input_dir = "./clinics"
     output_dir = "./markdown/clinics"
     os.makedirs(output_dir, exist_ok=True)
 
