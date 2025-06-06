@@ -4,7 +4,8 @@
 
 > Rather than simply “Book now,” Serenity Ways offers:  
 > *“Let us identify the most suitable retreat & program for your unique needs, and coordinate the onboarding for you.”*
-> Cherry on the cake: when booking with Serenity Ways, you receive exclusive amenities such as suite upgrade, early check-in and late check-out, spa credit etc.
+
+Cherry on the cake: when booking with Serenity Ways, you receive exclusive amenities such as suite upgrade, early check-in and late check-out, spa credit etc.
 
 ---
 
