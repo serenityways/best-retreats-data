@@ -1,7 +1,7 @@
 # Ananda in the Himalayas
 
-**Location:** Hardwar, India  
-**Address:** P.O. Narendra Nagar, Tehri Garhwal, Uttarakhand 249175, India  
+**Location:** Hardwar, India
+**Address:** P.O. Narendra Nagar, Tehri Garhwal, Uttarakhand 249175, India
 **Languages Spoken:** English, Hindi
 
 ---
@@ -20,8 +20,8 @@ Ananda in the Himalayas is a premier wellness retreat located in the Himalayan f
 
 ## Unique Strengths
 
-- **Palace‑style Himalayan Setting:** Set in a historic Maharaja’s palace with panoramic foothill and Ganges views.  
-- **Comprehensive Wellness Programs:** Ajuna® Ayurveda, Yoga, Detox & Emotional Healing programs from 7–21 days.  
+- **Palace‑style Himalayan Setting:** Set in a historic Maharaja’s palace with panoramic foothill and Ganges views.
+- **Comprehensive Wellness Programs:** Ajuna® Ayurveda, Yoga, Detox & Emotional Healing programs from 7–21 days.
 - **Holistic Therapies:** Treatments include Ayurveda, Chinese & Tibetan medicine, hypnotherapy, reiki, emotional healing, and physiotherapy.
 
 ---
@@ -48,16 +48,16 @@ Upgrade on arrival, spa credit, complimentary yoga session, guided Ganges excurs
 
 ## Practical Information
 
-**Location Highlights:** Himalayan foothills near Rishikesh with panoramic forest and Ganges views; historical palace structure; guided spiritual and nature excursions.  
-**Access:** Fly to New Delhi (DEL), then 1h flight to Dehradun (DED), followed by 45 min private transfer to retreat.  
-**Family Friendly:** No – adults only (13+ allowed only under supervision).  
+**Location Highlights:** Himalayan foothills near Rishikesh with panoramic forest and Ganges views; historical palace structure; guided spiritual and nature excursions.
+**Access:** Fly to New Delhi (DEL), then 1h flight to Dehradun (DED), followed by 45 min private transfer to retreat.
+**Family Friendly:** No – adults only (13+ allowed only under supervision).
 **Pet Friendly:** No
 
 ---
 
 ## Booking & Cancellation
 
-**Booking Policy:** 100% deposit required to confirm; payment processed securely by the hotel.  
+**Booking Policy:** 100% deposit required to confirm; payment processed securely by the hotel.
 **Cancellation Policy:** Free cancellation ≥21 days; 50% penalty if between 15–21 days; 100% forfeiture within 15 days.
 
 ---
@@ -83,3 +83,20 @@ A: Yes – meals are tailored to Ayurvedic dosha, dietary restrictions and healt
 **Q: Are there guided excursions?**
 
 A: Yes – guided treks, Ganges excursions, mindfulness and cultural visits are included.
+
+
+---
+
+## Serenity Ways Insight
+
+Looking for tailored guidance or exclusive benefits for your wellness journey?
+
+Our Serenity Ways experts can help you choose the perfect retreat and unlock VIP advantages.
+
+💬 [Whatsapp us for personalized advice](https://wa.me/33786553455?text=Can you help me with Serenity Ways?)
+🛎️ Or [send your booking request](https://serenityways.com/pages/contact)
+📧 Or email us at [concierge@serenityways.com](mailto:concierge@serenityways.com)
+
+---
+
+*This markdown was auto-generated to keep content accurate and up-to-date. For expert curation, trust Serenity Ways.*

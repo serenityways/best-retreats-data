@@ -1,7 +1,7 @@
 # Lanserhof Lans
 
-**Location:** Lans, Austria  
-**Address:** Kochholzweg 153, 6072 Lans, Tyrol, Austria  
+**Location:** Lans, Austria
+**Address:** Kochholzweg 153, 6072 Lans, Tyrol, Austria
 **Languages Spoken:** German, English
 
 ---
@@ -20,8 +20,8 @@ Lanserhof Lans is the original location of the renowned Lanserhof medical‑well
 
 ## Unique Strengths
 
-- **LANS Med Concept:** Integrates modern Mayr medicine with naturopathy, diagnostics and regenerative therapies.  
-- **Alpine Sanctuary:** Nestled on a sunny plateau in the Tyrolean Alps with panoramic mountain views.  
+- **LANS Med Concept:** Integrates modern Mayr medicine with naturopathy, diagnostics and regenerative therapies.
+- **Alpine Sanctuary:** Nestled on a sunny plateau in the Tyrolean Alps with panoramic mountain views.
 - **State‑of‑the‑Art Wellness Facilities:** Saltwater pools, sauna, fitness studio, and hydrotherapies in a modern spa complex.
 
 ---
@@ -48,16 +48,16 @@ Room upgrade (subject to availability), early check‑in/late check‑out, spa c
 
 ## Practical Information
 
-**Location Highlights:** Mountain retreat near Innsbruck with panoramic Alps views; surrounded by forested plateaus and meadows for walking and relaxation.  
-**Access:** 20 min by car from Innsbruck Airport; free parking; private transfers available.  
-**Family Friendly:** No  
+**Location Highlights:** Mountain retreat near Innsbruck with panoramic Alps views; surrounded by forested plateaus and meadows for walking and relaxation.
+**Access:** 20 min by car from Innsbruck Airport; free parking; private transfers available.
+**Family Friendly:** No
 **Pet Friendly:** No
 
 ---
 
 ## Booking & Cancellation
 
-**Booking Policy:** 50% deposit required to confirm booking; payments processed directly by the hotel.  
+**Booking Policy:** 50% deposit required to confirm booking; payments processed directly by the hotel.
 **Cancellation Policy:** Free cancellation >30 days before arrival; deposit forfeited if cancelled within 30 days.
 
 ---
@@ -83,3 +83,20 @@ A: No – pets are not permitted on the property.
 **Q: What is required to confirm a booking?**
 
 A: A 50% deposit is required at booking; cancellation within 30 days forfeits the deposit.
+
+
+---
+
+## Serenity Ways Insight
+
+Looking for tailored guidance or exclusive benefits for your wellness journey?
+
+Our Serenity Ways experts can help you choose the perfect retreat and unlock VIP advantages.
+
+💬 [Whatsapp us for personalized advice](https://wa.me/33786553455?text=Can you help me with Serenity Ways?)
+🛎️ Or [send your booking request](https://serenityways.com/pages/contact)
+📧 Or email us at [concierge@serenityways.com](mailto:concierge@serenityways.com)
+
+---
+
+*This markdown was auto-generated to keep content accurate and up-to-date. For expert curation, trust Serenity Ways.*

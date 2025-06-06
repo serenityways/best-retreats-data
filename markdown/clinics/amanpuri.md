@@ -1,7 +1,7 @@
 # Amanpuri
 
-**Location:** Phuket, Thailand  
-**Address:** West Coast Rd, Pansea Beach, Kalim, Phuket 83110, Thailand  
+**Location:** Phuket, Thailand
+**Address:** West Coast Rd, Pansea Beach, Kalim, Phuket 83110, Thailand
 **Languages Spoken:** English, Thai
 
 ---
@@ -20,8 +20,8 @@ Amanpuri is the flagship Aman resort, set on a private peninsula in Phuket with 
 
 ## Unique Strengths
 
-- **Flagship Aman Peninsula Retreat:** Set on its own peninsula with secluded beach, iconic Aman pavilions and villas with panoramic Andaman Sea views.  
-- **Holistic & Medical Wellness:** Integrated wellness centre offering medical anti‑ageing, detox, fitness, Muay Thai and spa programmes under expert supervision.  
+- **Flagship Aman Peninsula Retreat:** Set on its own peninsula with secluded beach, iconic Aman pavilions and villas with panoramic Andaman Sea views.
+- **Holistic & Medical Wellness:** Integrated wellness centre offering medical anti‑ageing, detox, fitness, Muay Thai and spa programmes under expert supervision.
 - **Comprehensive Wellness Facilities:** Includes spa suites, hydrotherapy, pilates & yoga pavilions, gym, Muay Thai ring, tennis courts and beach activities.
 
 ---
@@ -48,16 +48,16 @@ Complimentary villa/spa pavilion upgrade (subject to availability), spa credit, 
 
 ## Practical Information
 
-**Location Highlights:** Private peninsula on Phuket’s west coast with a secluded beach, teeming marine activities, cultural excursions and sunset views over Andaman Sea.  
-**Access:** 25 min drive from Phuket International Airport; on-site helipad; private boat and driver arrangements available.  
-**Family Friendly:** Yes – Amanpuri welcomes families; integrated kids’ hub with supervised activities while adults enjoy wellness.  
+**Location Highlights:** Private peninsula on Phuket’s west coast with a secluded beach, teeming marine activities, cultural excursions and sunset views over Andaman Sea.
+**Access:** 25 min drive from Phuket International Airport; on-site helipad; private boat and driver arrangements available.
+**Family Friendly:** Yes – Amanpuri welcomes families; integrated kids’ hub with supervised activities while adults enjoy wellness.
 **Pet Friendly:** No
 
 ---
 
 ## Booking & Cancellation
 
-**Booking Policy:** Booking & payment managed directly by Aman; Serenity Ways secures exclusive perks and consultation. Payment guaranteed via hotel.  
+**Booking Policy:** Booking & payment managed directly by Aman; Serenity Ways secures exclusive perks and consultation. Payment guaranteed via hotel.
 **Cancellation Policy:** Varying by stay plan; typically free cancellation 14–30 days before arrival, full fees apply closer to arrival. Specific policies per wellness programme.
 
 ---
@@ -83,3 +83,20 @@ A: Fitness options include yoga, pilates, Muay Thai ring, glass-walled gym, tenn
 **Q: Are spa and wellness treatments included?**
 
 A: Spa treatments can be à la carte or part of wellness programmes; hydrotherapy, massages and body treatments are available.
+
+
+---
+
+## Serenity Ways Insight
+
+Looking for tailored guidance or exclusive benefits for your wellness journey?
+
+Our Serenity Ways experts can help you choose the perfect retreat and unlock VIP advantages.
+
+💬 [Whatsapp us for personalized advice](https://wa.me/33786553455?text=Can you help me with Serenity Ways?)
+🛎️ Or [send your booking request](https://serenityways.com/pages/contact)
+📧 Or email us at [concierge@serenityways.com](mailto:concierge@serenityways.com)
+
+---
+
+*This markdown was auto-generated to keep content accurate and up-to-date. For expert curation, trust Serenity Ways.*

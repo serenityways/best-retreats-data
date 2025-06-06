@@ -1,7 +1,7 @@
 # Espace Chenot at L’Albereta
 
-**Location:** Erbusco, Italy  
-**Address:** Via Vittorio Emanuele, 23, 25030 Erbusco BS  
+**Location:** Erbusco, Italy
+**Address:** Via Vittorio Emanuele, 23, 25030 Erbusco BS
 **Languages Spoken:** English, Italian, Russian, French
 
 ---
@@ -20,8 +20,8 @@ Espace Chenot at L’Albereta is a medically‑supervised wellness spa set in a 
 
 ## Unique Strengths
 
-- **Relais & Châteaux Setting:** Luxury hospitality in a historic villa surrounded by vineyards and Lake Iseo views.  
-- **Flexible Chenot Programs:** 3–7 day customizable detox and energy programs with à la carte treatments.  
+- **Relais & Châteaux Setting:** Luxury hospitality in a historic villa surrounded by vineyards and Lake Iseo views.
+- **Flexible Chenot Programs:** 3–7 day customizable detox and energy programs with à la carte treatments.
 - **Advanced Medical Diagnostics:** BIO‑energetic checks, hydro‑therapy, cryotherapy and nutritional consulting under medical supervision.
 
 ---
@@ -48,16 +48,16 @@ Arrival upgrade subject to availability, daily buffet breakfast, complimentary 5
 
 ## Practical Information
 
-**Location Highlights:** Set in Franciacorta vineyard hills near Lake Iseo, with panoramic views, hiking, vineyard walks, forest bathing, golf nearby and cultural wineries.  
-**Access:** Car: 30min from Milan‑Bergamo, 1h20 from Milan MXP, 1h20 from Verona; helipad on‑site; free parking.  
-**Family Friendly:** Yes, hotel family‑friendly with kids club; Chenot programs adult‑focused, children must be supervised.  
+**Location Highlights:** Set in Franciacorta vineyard hills near Lake Iseo, with panoramic views, hiking, vineyard walks, forest bathing, golf nearby and cultural wineries.
+**Access:** Car: 30min from Milan‑Bergamo, 1h20 from Milan MXP, 1h20 from Verona; helipad on‑site; free parking.
+**Family Friendly:** Yes, hotel family‑friendly with kids club; Chenot programs adult‑focused, children must be supervised.
 **Pet Friendly:** Yes, pets welcome (€50/night), rooms with garden access, subject to availability.
 
 ---
 
 ## Booking & Cancellation
 
-**Booking Policy:** Program fees paid in full at least 7 days before start; accommodation separate via hotel.  
+**Booking Policy:** Program fees paid in full at least 7 days before start; accommodation separate via hotel.
 **Cancellation Policy:** Free cancellation up to 7 days before arrival; thereafter 100% cancellation fee. Treatments non‑refundable.
 
 ---
@@ -83,3 +83,20 @@ A: Yes – hotel is family‑friendly with kids club, but Chenot programs are ad
 **Q: Can I bring a pet?**
 
 A: Yes – pets stay for €50/night in garden‑access rooms, subject to availability.
+
+
+---
+
+## Serenity Ways Insight
+
+Looking for tailored guidance or exclusive benefits for your wellness journey?
+
+Our Serenity Ways experts can help you choose the perfect retreat and unlock VIP advantages.
+
+💬 [Whatsapp us for personalized advice](https://wa.me/33786553455?text=Can you help me with Serenity Ways?)
+🛎️ Or [send your booking request](https://serenityways.com/pages/contact)
+📧 Or email us at [concierge@serenityways.com](mailto:concierge@serenityways.com)
+
+---
+
+*This markdown was auto-generated to keep content accurate and up-to-date. For expert curation, trust Serenity Ways.*
