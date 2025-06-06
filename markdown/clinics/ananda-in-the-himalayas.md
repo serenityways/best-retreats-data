@@ -8,7 +8,7 @@
 
 ## Summary
 
-Luxury Himalayan wellness retreat offering Ayurveda, yoga, meditation, detox and holistic therapies in a former Maharaja’s palace.
+Luxury Indian wellness retreat offering Ayurveda, yoga, meditation, detox and holistic therapies in a former Maharaja’s palace.
 
 ---
 
