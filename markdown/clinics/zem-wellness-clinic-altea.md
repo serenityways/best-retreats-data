@@ -40,7 +40,7 @@ A Mediterranean anti‑inflammatory diet curated by nutritionists and sourced fr
 
 ## Serenity Ways Exclusive Benefits
 
-Room upgrade (if available), spa credit, early/late check‑in, VIP welcome, help scheduling programmes, complimentary wellness consultation.
+For programs of 7 days or more: €200 Wellness Credit Per Person, Upgrade from Deluxe Suite to Premium Deluxe Suite (subject to availability), Early Check-In and Late Check-Out (subject to availability)
 
 [Explore on Serenity Ways](https://serenityways.com/collections/zem-wellness-clinic-altea)
 
@@ -68,9 +68,9 @@ Room upgrade (if available), spa credit, early/late check‑in, VIP welcome, hel
 
 A: Programs include Essential, Pro‑Ageing, Immune‑Revitalisation, Detox, Weight Management, Rejuvenating/Aesthetics, plus Intimate Boost add‑ons.
 
-**Q: Where does your food come from?**
+**Q: What is special about the food at ZEM Wellness Clinic?**
 
-A: Cuisine is Mediterranean, personalized, and sourced from the organic Finca Althaya farm 7 km away.
+A: The cuisine is Mediterranean, personalized, and sourced from the organic Finca Althaya farm 7 km away.
 
 **Q: What intimate health services are available?**
 
@@ -78,11 +78,11 @@ A: Includes female intimate wellness services: CO₂ laser, ultrasound check‑u
 
 **Q: Are there spa & recovery facilities?**
 
-A: Yes – facilities include indoor/outdoor pools, snow room, advanced hydrotherapy, relaxation areas and treatment rooms.
+A: Yes, facilities include indoor/outdoor pools, snow room, advanced hydrotherapy, relaxation areas and treatment rooms.
 
 **Q: Which languages are spoken?**
 
-A: The clinic operates in English and Spanish.
+A: ZEM Wellness Clinic operates in English and Spanish.
 
 ## Programs at This Clinic
 
