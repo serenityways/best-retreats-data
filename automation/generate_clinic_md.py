@@ -116,4 +116,4 @@ def generate_clinic_markdown(json_path, output_dir):
 
 # Example usage:
 if __name__ == "__main__":
-    generate_clinic_markdown("zem-wellness-clinic-altea.json", "./clinics")
+    generate_clinic_markdown("zem-wellness-clinic-altea.json", "./markdown/clinics")
