@@ -7,6 +7,18 @@
   "Long description (500 characters)": "The ZEM Detox Program is a medically supervised detox retreat designed to provide a full-body and mind reset through personalized diagnostics, nutrition, therapies, and movement. Available in 7-, 14-, and 21-night durations, it combines comprehensive medical evaluations, daily detoxifying treatments, mindfulness and physical activity guidance to eliminate toxins, boost metabolism, and elevate vitality in a luxurious Mediterranean setting.",
   "Available durations": "7 nights, 14 nights, 21 nights",
   "Starting price": "From €11,000",
+  "StartingPriceInclusions": "The starting price includes a 7-night stay in a Deluxe Suite with double occupancy, the program and the full board.",
+  "PricingTable": {
+    "headers": ["Room Category", "Occupancy", "7 nights", "14 nights"],
+    "rows": [
+      ["Deluxe Suite", "Double", "€11,000", "€19,000"],
+      ["Deluxe Suite", "Single", "€13,800", "€24,600"],
+      ["Premium Deluxe or Feng Shui Suite", "Double", "€11,700", "€20,400"],
+      ["Premium Deluxe or Feng Shui Suite", "Single", "€14,500", "€26,000"],
+      ["Junior Suite Deluxe", "Double", "€15,200", "€27,400"],
+      ["Junior Suite Deluxe", "Single", "€20,000", "€33,000"]
+    ]
+  },
   "Standard duration (days and nights)": "8 days / 7 nights",
   "Standard duration (number of nights)": 7,
   "Standard duration (number of days)": 8,
