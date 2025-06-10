@@ -1,7 +1,7 @@
 # Espace Chenot at L’Albereta
 
-**Location:** Erbusco, Italy
-**Address:** Via Vittorio Emanuele, 23, 25030 Erbusco BS
+**Location:** Erbusco, Italy  
+**Address:** Via Vittorio Emanuele, 23, 25030 Erbusco BS  
 **Languages Spoken:** English, Italian, Russian, French
 
 ---
@@ -48,16 +48,16 @@ Arrival upgrade subject to availability, daily buffet breakfast, complimentary 5
 
 ## Practical Information
 
-**Location Highlights:** Set in Franciacorta vineyard hills near Lake Iseo, with panoramic views, hiking, vineyard walks, forest bathing, golf nearby and cultural wineries.
-**Access:** Car: 30min from Milan‑Bergamo, 1h20 from Milan MXP, 1h20 from Verona; helipad on‑site; free parking.
-**Family Friendly:** Yes, hotel family‑friendly with kids club; Chenot programs adult‑focused, children must be supervised.
+**Location Highlights:** Set in Franciacorta vineyard hills near Lake Iseo, with panoramic views, hiking, vineyard walks, forest bathing, golf nearby and cultural wineries.  
+**Access:** Car: 30min from Milan‑Bergamo, 1h20 from Milan MXP, 1h20 from Verona; helipad on‑site; free parking.  
+**Family Friendly:** Yes, hotel family‑friendly with kids club; Chenot programs adult‑focused, children must be supervised.  
 **Pet Friendly:** Yes, pets welcome (€50/night), rooms with garden access, subject to availability.
 
 ---
 
 ## Booking & Cancellation
 
-**Booking Policy:** Program fees paid in full at least 7 days before start; accommodation separate via hotel.
+**Booking Policy:** Program fees paid in full at least 7 days before start; accommodation separate via hotel.  
 **Cancellation Policy:** Free cancellation up to 7 days before arrival; thereafter 100% cancellation fee. Treatments non‑refundable.
 
 ---
@@ -93,8 +93,8 @@ Looking for tailored guidance or exclusive benefits for your wellness journey?
 
 Our Serenity Ways experts can help you choose the perfect retreat and unlock VIP advantages.
 
-💬 [Whatsapp us for personalized advice](https://wa.me/33786553455) 
-🛎️ Or [send your booking request](https://serenityways.com/pages/contact) 
+💬 [Whatsapp us for personalized advice](https://wa.me/33786553455)  
+🛎️ Or [send your booking request](https://serenityways.com/pages/contact)  
 📧 Or email us at [concierge@serenityways.com](mailto:concierge@serenityways.com)
 
 ---

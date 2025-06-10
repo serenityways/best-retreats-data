@@ -1,7 +1,7 @@
 # Amanpuri
 
-**Location:** Phuket, Thailand
-**Address:** West Coast Rd, Pansea Beach, Kalim, Phuket 83110, Thailand
+**Location:** Phuket, Thailand  
+**Address:** West Coast Rd, Pansea Beach, Kalim, Phuket 83110, Thailand  
 **Languages Spoken:** English, Thai
 
 ---
@@ -48,16 +48,16 @@ Complimentary villa/spa pavilion upgrade (subject to availability), spa credit, 
 
 ## Practical Information
 
-**Location Highlights:** Private peninsula on Phuket’s west coast with a secluded beach, teeming marine activities, cultural excursions and sunset views over Andaman Sea.
-**Access:** 25 min drive from Phuket International Airport; on-site helipad; private boat and driver arrangements available.
-**Family Friendly:** Yes – Amanpuri welcomes families; integrated kids’ hub with supervised activities while adults enjoy wellness.
+**Location Highlights:** Private peninsula on Phuket’s west coast with a secluded beach, teeming marine activities, cultural excursions and sunset views over Andaman Sea.  
+**Access:** 25 min drive from Phuket International Airport; on-site helipad; private boat and driver arrangements available.  
+**Family Friendly:** Yes – Amanpuri welcomes families; integrated kids’ hub with supervised activities while adults enjoy wellness.  
 **Pet Friendly:** No
 
 ---
 
 ## Booking & Cancellation
 
-**Booking Policy:** Booking & payment managed directly by Aman; Serenity Ways secures exclusive perks and consultation. Payment guaranteed via hotel.
+**Booking Policy:** Booking & payment managed directly by Aman; Serenity Ways secures exclusive perks and consultation. Payment guaranteed via hotel.  
 **Cancellation Policy:** Varying by stay plan; typically free cancellation 14–30 days before arrival, full fees apply closer to arrival. Specific policies per wellness programme.
 
 ---
@@ -93,8 +93,8 @@ Looking for tailored guidance or exclusive benefits for your wellness journey?
 
 Our Serenity Ways experts can help you choose the perfect retreat and unlock VIP advantages.
 
-💬 [Whatsapp us for personalized advice](https://wa.me/33786553455) 
-🛎️ Or [send your booking request](https://serenityways.com/pages/contact) 
+💬 [Whatsapp us for personalized advice](https://wa.me/33786553455)  
+🛎️ Or [send your booking request](https://serenityways.com/pages/contact)  
 📧 Or email us at [concierge@serenityways.com](mailto:concierge@serenityways.com)
 
 ---

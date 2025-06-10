@@ -1,7 +1,7 @@
 # Chi Longevity at Four Seasons Singapore
 
-**Location:** Singapore, Singapore
-**Address:** 190 Orchard Blvd, Singapore 248646 (Level 3, Four Seasons Hotel Singapore)
+**Location:** Singapore, Singapore  
+**Address:** 190 Orchard Blvd, Singapore 248646 (Level 3, Four Seasons Hotel Singapore)  
 **Languages Spoken:** English
 
 ---
@@ -48,16 +48,16 @@ Room upgrade (subject to availability), early check‑in/late check‑out, spa c
 
 ## Practical Information
 
-**Location Highlights:** Located on Orchard Boulevard inside Four Seasons Hotel; central to shopping, dining and wellness in Singapore’s luxury district.
-**Access:** Easily accessible via car or taxi; central location near Orchard MRT; clinic on Level 3 of Four Seasons Hotel.
-**Family Friendly:** Yes – hotel is family friendly; clinic is adult‑focused, open to 18+ only.
+**Location Highlights:** Located on Orchard Boulevard inside Four Seasons Hotel; central to shopping, dining and wellness in Singapore’s luxury district.  
+**Access:** Easily accessible via car or taxi; central location near Orchard MRT; clinic on Level 3 of Four Seasons Hotel.  
+**Family Friendly:** Yes – hotel is family friendly; clinic is adult‑focused, open to 18+ only.  
 **Pet Friendly:** Yes – Four Seasons is pet‑friendly; clinic does not allow pets.
 
 ---
 
 ## Booking & Cancellation
 
-**Booking Policy:** Bookings via Serenity Ways or Four Seasons; clinic sessions booked directly through hotel concierge or separately.
+**Booking Policy:** Bookings via Serenity Ways or Four Seasons; clinic sessions booked directly through hotel concierge or separately.  
 **Cancellation Policy:** Cancellations must be made at least 48 hours before appointment or full fees apply.
 
 ---
@@ -93,8 +93,8 @@ Looking for tailored guidance or exclusive benefits for your wellness journey?
 
 Our Serenity Ways experts can help you choose the perfect retreat and unlock VIP advantages.
 
-💬 [Whatsapp us for personalized advice](https://wa.me/33786553455) 
-🛎️ Or [send your booking request](https://serenityways.com/pages/contact) 
+💬 [Whatsapp us for personalized advice](https://wa.me/33786553455)  
+🛎️ Or [send your booking request](https://serenityways.com/pages/contact)  
 📧 Or email us at [concierge@serenityways.com](mailto:concierge@serenityways.com)
 
 ---

@@ -1,7 +1,7 @@
 # ZEM Wellness Clinic Altea
 
-**Location:** Altea, Spain
-**Address:** Calle Suecia s/n, 03590 Altea, Alicante, Spain
+**Location:** Altea, Spain  
+**Address:** Calle Suecia s/n, 03590 Altea, Alicante, Spain  
 **Languages Spoken:** English, Spanish
 
 ---
@@ -48,16 +48,16 @@ For programs of 7 days or more: €200 Wellness Credit Per Person, Upgrade from 
 
 ## Practical Information
 
-**Location Highlights:** Perched on the Costa Blanca overlooking the sea with landscaped gardens, pools, snow‑room, helipad and access to natural Mediterranean trails.
-**Access:** 45‑min drive from Alicante Airport (ALC); free parking; private transfers available.
-**Family Friendly:** No
+**Location Highlights:** Perched on the Costa Blanca overlooking the sea with landscaped gardens, pools, snow‑room, helipad and access to natural Mediterranean trails.  
+**Access:** 45‑min drive from Alicante Airport (ALC); free parking; private transfers available.  
+**Family Friendly:** No  
 **Pet Friendly:** No
 
 ---
 
 ## Booking & Cancellation
 
-**Booking Policy:** 50% deposit within 5 business days to confirm booking (100% for Royal Suite); balance due 14 days prior to arrival.
+**Booking Policy:** 50% deposit within 5 business days to confirm booking (100% for Royal Suite); balance due 14 days prior to arrival.  
 **Cancellation Policy:** Free cancellation >28 days before arrival; 50% charge 27–14 days; 100% charge <14 days.
 
 ---
@@ -86,8 +86,10 @@ A: ZEM Wellness Clinic operates in English and Spanish.
 
 ## Programs at This Clinic
 
-- ZEM Essential Program
-- ZEM Detox Program
+| Program | Minimum Stay | Starting Price |
+|---------|---------------|----------------|
+| ZEM Essential Program | 3 nights | From €5,000 |
+| ZEM Detox Program | 7 nights | From €11,000 |
 
 
 ---
@@ -98,8 +100,8 @@ Looking for tailored guidance or exclusive benefits for your wellness journey?
 
 Our Serenity Ways experts can help you choose the perfect retreat and unlock VIP advantages.
 
-💬 [Whatsapp us for personalized advice](https://wa.me/33786553455) 
-🛎️ Or [send your booking request](https://serenityways.com/pages/contact) 
+💬 [Whatsapp us for personalized advice](https://wa.me/33786553455)  
+🛎️ Or [send your booking request](https://serenityways.com/pages/contact)  
 📧 Or email us at [concierge@serenityways.com](mailto:concierge@serenityways.com)
 
 ---

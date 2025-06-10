@@ -1,7 +1,7 @@
 # Amanbagh
 
-**Location:** Ajabgarh, India
-**Address:** Amanbagh Road, Ajabgarh, Alwar District, Rajasthan, India
+**Location:** Ajabgarh, India  
+**Address:** Amanbagh Road, Ajabgarh, Alwar District, Rajasthan, India  
 **Languages Spoken:** English, Hindi
 
 ---
@@ -48,16 +48,16 @@ Complimentary breakfast, arrival upgrade, early check-in/late check-out (subject
 
 ## Practical Information
 
-**Location Highlights:** Set in lush citrus gardens and Aravalli hills near Ajabgarh Fort; focal for wildlife safaris in Sariska and village cultural tours.
-**Access:** Approx. 2 hrs by car from Jaipur Airport; héliport on-site; private transfers arranged.
-**Family Friendly:** Yes, family-friendly hotel and villas; wellness programs are adult-tailored but children may accompany.
+**Location Highlights:** Set in lush citrus gardens and Aravalli hills near Ajabgarh Fort; focal for wildlife safaris in Sariska and village cultural tours.  
+**Access:** Approx. 2 hrs by car from Jaipur Airport; héliport on-site; private transfers arranged.  
+**Family Friendly:** Yes, family-friendly hotel and villas; wellness programs are adult-tailored but children may accompany.  
 **Pet Friendly:** No
 
 ---
 
 ## Booking & Cancellation
 
-**Booking Policy:** Program and accommodation booked via Serenity Ways or Aman. Payment at time of booking; transfers arranged at extra cost.
+**Booking Policy:** Program and accommodation booked via Serenity Ways or Aman. Payment at time of booking; transfers arranged at extra cost.  
 **Cancellation Policy:** Free cancellation up to 7 days before; thereafter 100% cancellation fee.
 
 ---
@@ -93,8 +93,8 @@ Looking for tailored guidance or exclusive benefits for your wellness journey?
 
 Our Serenity Ways experts can help you choose the perfect retreat and unlock VIP advantages.
 
-💬 [Whatsapp us for personalized advice](https://wa.me/33786553455) 
-🛎️ Or [send your booking request](https://serenityways.com/pages/contact) 
+💬 [Whatsapp us for personalized advice](https://wa.me/33786553455)  
+🛎️ Or [send your booking request](https://serenityways.com/pages/contact)  
 📧 Or email us at [concierge@serenityways.com](mailto:concierge@serenityways.com)
 
 ---
