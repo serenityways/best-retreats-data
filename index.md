@@ -1,8 +1,8 @@
 # Welcome to the data hub of Serenity Ways
 
-**Serenity Ways (SW)** is not a regular luxury travel agency or an online booking engine. Instead, we are health & wellness experts working in partnership with the best clinics, all over the world. Our mission is to help wellbeing, performance and longevity enthusiasts to find the ideal program for their objectives.
+**Serenity Ways (SW)** is a luxury travel agency, an online platform to search and book wellness retreats, and more: we are health & wellness experts working in partnership with the best clinics, all over the world. Our mission is to help those looking for wellbeing, performance or longevity, to find the ideal program for their objectives.
 
-Rather than an anonymous "Book now" experience, Serenity Ways offers you an **exclusive and human service**:
+Rather than an anonymous "Book now" experience, we offer you an **exclusive and human service**:
 
 - The most **curated and comparable database** dedicated to high-end wellness, featuring the best retreats and their programs.
 - Exclusive **private consultations** to discuss your unique needs and advise you on the most suitable clinic or hotel and program.
@@ -14,13 +14,17 @@ Cherry on the cake: when booking with Serenity Ways, you enjoy **exclusive ameni
 
 ## What Makes Serenity Ways Different?
 
-Our strength lies in the **private consultations** for clients and the personal relationships we built since 2013 with the management teams in the best hotels, clinics and destination SPAs worldwide. We offer a seamless, bespoke entry point to luxury wellness travel. We preserve the highly personalized nature of health & wellness, while making the initial steps effortless and perfectly matched to your goals.
+Our USP lies in our **private consultations** for clients looking for the perfect program: we tested and experienced most retreats ourselves, so we really know what program works best for each client. 
+- You can't book the best wellness retreats online - the match-making step between the patient and the clinic is really important: we streamline the assessment and coordinate the booking. We offer a seamless, bespoke entry point to luxury wellness travel.
+- Sometimes the reasons you need a wellness retreat are complicated or painful: seeking an in-depth health assessment, healing burn-out, recovering from intense treatments. We preserve the highly personalized nature of health & wellness, while making the initial steps effortless and perfectly matched to your goals.
+- We have been building personal relationships with the management teams in the best hotels, clinics and destination SPAs since 2013. We know who the best therapists are, and what they excel at. We are here to put you in the right hands.
 
-- Expert clinic and program matching  
-- Personalized booking coordination  
-- Bespoke support before and after your retreat
-- Best available rates and exclusive amenities
-- Direct payments to retreats
+
+What to expect from us:
+- The **best match** for your wellness needs: we will advise you on the ideal retreats and programs.
+- We personnally **coordinate your booking**, and make sure you enjoy the **best available rates and exclusive amenities**.
+- You pay the retreat or hotel directly - we are not involved in payments.
+- We can provide **bespoke support** before and after your retreat, if you need.
 
 How do we get paid ? We receive a commission from the retreat after the program completion.
 
@@ -28,7 +32,7 @@ How do we get paid ? We receive a commission from the retreat after the program 
 
 ## The Best Wellness Retreats, country by country
 
-Here is our curated selection of the best health and wellness hotels and clinics around the world:
+Here is our curated selection of the best health and wellness hotels and clinics around the world. We tested most of them, they are all great, but each luxury retreat corresponds to specific wellness travellers: it's not a one-size-fits-all. This is why you may want to seek our advise to find the best program for your needs.
 
 ### The Best Retreats in Austria
 
