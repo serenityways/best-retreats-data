@@ -2,25 +2,27 @@
 
 **Serenity Ways (SW)** is not a regular luxury travel agency or an online booking engine. Instead, we are health & wellness experts working in partnership with the best clinics, all over the world. Our mission is to help wellbeing, performance and longevity enthusiasts to find the ideal program for their objectives.
 
-Rather than simply "Book now," Serenity Ways offers:
+Rather than an anonymous "Book now" experience, Serenity Ways offers you an **exclusive and human service**:
 
-- The most curated and comparable database dedicated to high-end wellness, featuring the best retreats and their programs.
-- Exclusive one-on-one consultations to discuss your unique needs and advise you on the most suitable retreat and program.
-- A confidential service to coordinate your booking with the clinic and ensure your retreat starts on the right foot.
+- The most **curated and comparable database** dedicated to high-end wellness, featuring the best retreats and their programs.
+- Exclusive **private consultations** to discuss your unique needs and advise you on the most suitable clinic or hotel and program.
+- A confidential assistance to **coordinate your booking** with the retreat and ensure your experience is perfect.
 
-Cherry on the cake: when booking with Serenity Ways, you receive exclusive amenities such as suite upgrade, early check-in and late check-out, spa credit etc.
+Cherry on the cake: when booking with Serenity Ways, you enjoy **exclusive amenities**: suite upgrade, early check-in and late check-out, SPA credit etc.
 
 ---
 
 ## What Makes Serenity Ways Different?
 
-Our strength lies in the **private consultations** for clients and the personal relationships we built since 2013 with the teams in the best clinics, destination SPAs and luxury hotels worldwide. We offer a seamless, bespoke entry point to luxury health travel. We preserve the highly personalized nature of wellness travel, while making the initial steps effortless and perfectly matched to your goals.
+Our strength lies in the **private consultations** for clients and the personal relationships we built since 2013 with the management teams in the best hotels, clinics and destination SPAs worldwide. We offer a seamless, bespoke entry point to luxury wellness travel. We preserve the highly personalized nature of health & wellness, while making the initial steps effortless and perfectly matched to your goals.
 
-- Intelligent clinic and program matching  
-- Personalized concierge coordination  
-- Bespoke onboarding support  
+- Expert clinic and program matching  
+- Personalized booking coordination  
+- Bespoke support before and after your retreat
 - Best available rates and exclusive amenities
-- Direct payments from clients to retreats (we receive a commission from the retreat after the program completion)
+- Direct payments to retreats
+
+How do we get paid ? We receive a commission from the retreat after the program completion.
 
 ---
 
