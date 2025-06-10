@@ -28,7 +28,7 @@ ZEM Wellness Clinic Altea sits on the Costa Blanca, overlooking the Mediterranea
 
 ## Health & Wellness Approach
 
-ZEM integrates advanced diagnostics, longevity medicine and eastern healing in a holistic model based on eight pillars—from anti‑ageing and pro‑ageing to immune, detox, weight and intimate health. Treatments combine state‑of‑the‑art technology with ancestral therapies in a medically supervised, luxury wellness environment.
+ZEM integrates advanced diagnostics, longevity medicine and eastern healing in a holistic model based on eight pillars. In addition to 6 health programs offered by ZEM and the more general one called ZEM Essential, guests can complement their experience with reinforcement packages called Boosts. ZEM Treatments combine state‑of‑the‑art technology with ancestral therapies in a medically supervised, luxury wellness environment.
 
 ---
 
