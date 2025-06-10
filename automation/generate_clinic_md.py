@@ -6,13 +6,13 @@ def sanitize_filename(name):
     """Converts name to lowercase hyphenated filename (e.g. 'ZEM Wellness Clinic Altea' -> 'zem-wellness-clinic-altea')"""
     return re.sub(r'[^a-z0-9\-]', '', name.lower().replace(" ", "-"))
 
-def get_program_titles(clinic_filename_base):
-    """Looks for JSON files in /programs/[clinic-name]/ and extracts 'Title' from each"""
+def get_program_summaries(clinic_filename_base):
+    """Extracts program title, minimum stay, and starting price from each program file"""
     program_dir = os.path.join("programs", clinic_filename_base)
-    program_titles = []
+    program_summaries = []
 
     if not os.path.isdir(program_dir):
-        return program_titles  # Gracefully handle missing directory
+        return program_summaries  # Gracefully handle missing directory
 
     for file in os.listdir(program_dir):
         if file.endswith(".json"):
@@ -21,13 +21,15 @@ def get_program_titles(clinic_filename_base):
                 with open(file_path, "r", encoding="utf-8") as f:
                     data = json.load(f)
                     title = data.get("Title")
+                    min_stay = data.get("Minimum stay", data.get("Standard duration (number of nights)", ""))
+                    price = data.get("Starting price", "")
                     if title:
-                        program_titles.append(title)
+                        program_summaries.append((title, min_stay, price))
             except Exception as e:
                 print(f"⚠️ Could not load program file: {file_path}. Reason: {e}")
                 continue
 
-    return program_titles
+    return program_summaries
 
 def generate_clinic_markdown(json_path, output_dir):
     with open(json_path, 'r', encoding='utf-8') as f:
@@ -61,10 +63,15 @@ def generate_clinic_markdown(json_path, output_dir):
         if q and a:
             faqs.append((q, a))
 
-    # Get related programs
-    program_titles = get_program_titles(filename)
-    if program_titles:
-        programs_section = "## Programs at This Clinic\n\n" + "\n".join([f"- {title}" for title in program_titles]) + "\n\n"
+    # Get related programs with duration and price
+    program_summaries = get_program_summaries(filename)
+    if program_summaries:
+        programs_section = "## Programs at This Clinic\n\n"
+        programs_section += "| Program | Minimum Stay | Starting Price |\n"
+        programs_section += "|---------|---------------|----------------|\n"
+        for title, min_stay, price in program_summaries:
+            programs_section += f"| {title} | {min_stay} | {price} |\n"
+        programs_section += "\n"
     else:
         programs_section = ""
 
@@ -78,8 +85,8 @@ Looking for tailored guidance or exclusive benefits for your wellness journey?
 
 Our Serenity Ways experts can help you choose the perfect retreat and unlock VIP advantages.
 
-💬 [Whatsapp us for personalized advice](https://wa.me/33786553455) 
-🛎️ Or [send your booking request](https://serenityways.com/pages/contact) 
+💬 [Whatsapp us for personalized advice](https://wa.me/33786553455)  
+🛎️ Or [send your booking request](https://serenityways.com/pages/contact)  
 📧 Or email us at [concierge@serenityways.com](mailto:concierge@serenityways.com)
 
 ---
@@ -90,8 +97,8 @@ Our Serenity Ways experts can help you choose the perfect retreat and unlock VIP
     # Combine all content
     md_content = f"""# {name}
 
-**Location:** {location}
-**Address:** {address}
+**Location:** {location}  
+**Address:** {address}  
 **Languages Spoken:** {languages}
 
 ---
@@ -138,16 +145,16 @@ Our Serenity Ways experts can help you choose the perfect retreat and unlock VIP
 
 ## Practical Information
 
-**Location Highlights:** {highlights}
-**Access:** {access}
-**Family Friendly:** {family}
+**Location Highlights:** {highlights}  
+**Access:** {access}  
+**Family Friendly:** {family}  
 **Pet Friendly:** {pet}
 
 ---
 
 ## Booking & Cancellation
 
-**Booking Policy:** {booking_policy}
+**Booking Policy:** {booking_policy}  
 **Cancellation Policy:** {cancel_policy}
 
 ---
