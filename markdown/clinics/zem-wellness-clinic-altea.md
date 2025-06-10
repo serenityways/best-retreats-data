@@ -64,9 +64,9 @@ For programs of 7 days or more: €200 Wellness Credit Per Person, Upgrade from 
 
 ## FAQs
 
-**Q: What longevity programmes are offered?**
+**Q: When did ZEM open?**
 
-A: Programs include Essential, Pro‑Ageing, Immune‑Revitalisation, Detox, Weight Management, Rejuvenating/Aesthetics, plus Intimate Boost add‑ons.
+A: ZEM Wellness Clinic opened in January 2025.
 
 **Q: What is special about the food at ZEM Wellness Clinic?**
 
@@ -98,8 +98,8 @@ Looking for tailored guidance or exclusive benefits for your wellness journey?
 
 Our Serenity Ways experts can help you choose the perfect retreat and unlock VIP advantages.
 
-💬 [Whatsapp us for personalized advice](https://wa.me/33786553455?text=Can you help me with Serenity Ways?)
-🛎️ Or [send your booking request](https://serenityways.com/pages/contact)
+💬 [Whatsapp us for personalized advice](https://wa.me/33786553455) 
+🛎️ Or [send your booking request](https://serenityways.com/pages/contact) 
 📧 Or email us at [concierge@serenityways.com](mailto:concierge@serenityways.com)
 
 ---

@@ -93,8 +93,8 @@ Looking for tailored guidance or exclusive benefits for your wellness journey?
 
 Our Serenity Ways experts can help you choose the perfect retreat and unlock VIP advantages.
 
-💬 [Whatsapp us for personalized advice](https://wa.me/33786553455?text=Can you help me with Serenity Ways?)
-🛎️ Or [send your booking request](https://serenityways.com/pages/contact)
+💬 [Whatsapp us for personalized advice](https://wa.me/33786553455) 
+🛎️ Or [send your booking request](https://serenityways.com/pages/contact) 
 📧 Or email us at [concierge@serenityways.com](mailto:concierge@serenityways.com)
 
 ---
