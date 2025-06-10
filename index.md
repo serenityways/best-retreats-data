@@ -38,6 +38,7 @@ Here is our curated selection of the best health and wellness hotels and clinics
 
 - [Lanserhof Lans](./clinics/lanserhof-lans.md)
 - Mayrlife
+- Park Igls
 - Vivamayr
 
 ### The Best Retreats in Costa Rica
@@ -47,17 +48,22 @@ Here is our curated selection of the best health and wellness hotels and clinics
 ### The Best Retreats in France
 
 - Evian Resort
+- La Pensée Sauvage
 - Lily of the Valley
 - Nescens Bootcamps at La Réserve Ramatuelle
 
 ### The Best Retreats in Germany
 
+- Buchinger
 - Lanserhof Sylt
 - Lanserhof Tegernsee
+- Schloss Elmau
 - Villa Stéphanie at Brenners Park
 
 ### The Best Retreats in Greece
 
+- Amazoe
+- Daios Cove
 - Euphoria Retreat
 
 ### The Best Retreats in India
@@ -68,19 +74,27 @@ Here is our curated selection of the best health and wellness hotels and clinics
 
 ### The Best Luxury Retreats in Indonesia
 
+- Amanwana
 - COMO Shambhala Estate
 - Intaaya
-- REVIVO
+- NIHI Sumba
+- REVĪVŌ Wellness Resort
 
 ### The Best Retreats in Italy
 
 - Adler Balance
+- Bagni di Pisa
+- Borgo Egnazia
 - [Chenot Espace at L'Albereta](./clinics/chenot-espace-l-albereta.md)
+- Eremito
 - Forestis
+- Grotta Giusti
 - Lefay Dolomites
 - Lefay Lago di Garda
 - Palace Merano
 - Palazzo Fiuggi
+- Preidlhof
+- Terme di Saturnia
 - Villa Eden in Merano
 
 ### The Best Retreats in Mauritius
@@ -97,8 +111,11 @@ Here is our curated selection of the best health and wellness hotels and clinics
 
 ### The Best Retreats in Maldives
 
+- Ananda at The Nautilus Maldives
+- COMO Maalifushi
 - JA Manafaru
 - JOALI Being
+- Soneva Fushi
 
 ### The Best Retreats in Montenegro
 
@@ -116,6 +133,7 @@ Here is our curated selection of the best health and wellness hotels and clinics
 
 ### The Best Retreats in Portugal
 
+- Casa Palmela
 - Six Senses Douro Valley
 
 ### The Best Retreats in Singapore
@@ -132,12 +150,21 @@ Here is our curated selection of the best health and wellness hotels and clinics
 - Six Senses Ibiza
 - [ZEM Wellness Clinic Altea](./clinics/zem-wellness-clinic-altea.md)
 
+### The Best Retreats in St. Barth
+
+- Le Barthélemy 
+- Rosewood Le Guanahani
+
 ### The Best Retreats in Sri Lanka
 
+- Amanwella
+- Amangalla
+- Santani
 - Kayaam House
 
 ### The Best Retreats in Switzerland
 
+- Bürgenstock
 - Chenot Palace Weggis
 - Clinique La Prairie
 - Clinique Nescens
@@ -153,17 +180,28 @@ Here is our curated selection of the best health and wellness hotels and clinics
 
 ### The Best Retreats in the UAE
 
+- Longevity Hub by Clinique La Prairie at One&Only One Za’abeel
 - SIRO One Za'abeel
 
 ### The Best Retreats in the UK
 
 - The Bothy by Wildsmith at Heckfield Place
+- The Glass House Retreat
+- Wild Wellness at Gleneagles
+- Yeotown Devon
 
 ### The Best Retreats in the USA
 
+- Amangiri
+- Cal-a-Vie
 - Canyon Ranch Lenox
 - Canyon Ranch Tucson
 - Canyon Ranch Woodside
+- Golden Doors
+- Mii Amo
+- Miraval Arizona
+- Miraval Austin
+- Miraval Berkshires
 - The Ranch Hudson Valley
 - The Ranch Malibu
 
