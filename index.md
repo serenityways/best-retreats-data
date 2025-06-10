@@ -1,9 +1,12 @@
-# Welcome to Serenity Ways — Your Gateway to Luxury Wellness Travel
+# Welcome to the data hub of Serenity Ways
 
-**Serenity Ways (SW)** is not a regular travel agency or an online booking engine. Instead, we are wellness experts trusted by the best clinics. Our mission is to help health and longevity enthusiasts to find the ideal program for their objectives.
+**Serenity Ways (SW)** is not a regular luxury travel agency or an online booking engine. Instead, we are health & wellness experts working in partnership with the best clinics, all over the world. Our mission is to help wellbeing, performance and longevity enthusiasts to find the ideal program for their objectives.
 
-> Rather than simply “Book now,” Serenity Ways offers:  
-> *“Let us identify the most suitable retreat & program for your unique needs, and coordinate the onboarding for you.”*
+> Rather than simply “Book now,” Serenity Ways offers:
+> *The most curated and comparable database dedicated to high-end wellness, featuring the best retreats and their programs.
+> *Exclusive one-on-one consultations to discuss your unique needs and advise you on the most suitable retreat & program.
+> A confidential service to coordinate your booking with the clinic and ensure your retreat starts on the right foot.
+> VIP perks when you book with Serenity Ways: room upgrade, SPA credit, early check-in and late check-out ...
 
 Cherry on the cake: when booking with Serenity Ways, you receive exclusive amenities such as suite upgrade, early check-in and late check-out, spa credit etc.
 
