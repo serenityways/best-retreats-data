@@ -5,8 +5,7 @@
 > Rather than simply “Book now,” Serenity Ways offers:
 > *The most curated and comparable database dedicated to high-end wellness, featuring the best retreats and their programs.
 > *Exclusive one-on-one consultations to discuss your unique needs and advise you on the most suitable retreat & program.
-> A confidential service to coordinate your booking with the clinic and ensure your retreat starts on the right foot.
-> VIP perks when you book with Serenity Ways: room upgrade, SPA credit, early check-in and late check-out ...
+> *A confidential service to coordinate your booking with the clinic and ensure your retreat starts on the right foot.
 
 Cherry on the cake: when booking with Serenity Ways, you receive exclusive amenities such as suite upgrade, early check-in and late check-out, spa credit etc.
 
