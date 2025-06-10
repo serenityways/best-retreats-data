@@ -36,7 +36,7 @@ Here is our curated selection of the best health and wellness hotels and clinics
 
 ### The Best Retreats in Austria
 
-- [Lanserhof Lans](./clinics/lanserhof-lans.md)
+- [Lanserhof Lans](./markdown/clinics/lanserhof-lans.md)
 - Mayrlife
 - Park Igls
 - Vivamayr
@@ -68,8 +68,8 @@ Here is our curated selection of the best health and wellness hotels and clinics
 
 ### The Best Retreats in India
 
-- [Amanbagh](./clinics/amanbagh.md) 
-- [Ananda](./clinics/ananda-spa.md)
+- [Amanbagh](./markdown/clinics/amanbagh.md) 
+- [Ananda](./markdown/clinics/ananda-spa.md)
 - Six Senses Vana
 
 ### The Best Luxury Retreats in Indonesia
@@ -85,7 +85,7 @@ Here is our curated selection of the best health and wellness hotels and clinics
 - Adler Balance
 - Bagni di Pisa
 - Borgo Egnazia
-- [Chenot Espace at L'Albereta](./clinics/chenot-espace-l-albereta.md)
+- [Chenot Espace at L'Albereta](./markdown/clinics/chenot-espace-l-albereta.md)
 - Eremito
 - Forestis
 - Grotta Giusti
@@ -138,7 +138,7 @@ Here is our curated selection of the best health and wellness hotels and clinics
 
 ### The Best Retreats in Singapore
 
-- [Chi Longevity at Four Seasons Singapore](./clinics/chi-longevity-four-seasons-singapore.md) 
+- [Chi Longevity at Four Seasons Singapore](./markdown/clinics/chi-longevity-four-seasons-singapore.md) 
 
 ### The Best Retreats in Spain
 
@@ -148,7 +148,7 @@ Here is our curated selection of the best health and wellness hotels and clinics
 - SHA Wellness Clinic Spain
 - Shanti-Som Wellbeing Retreat
 - Six Senses Ibiza
-- [ZEM Wellness Clinic Altea](./clinics/zem-wellness-clinic-altea.md)
+- [ZEM Wellness Clinic Altea](./markdown/clinics/zem-wellness-clinic-altea.md)
 
 ### The Best Retreats in St. Barth
 
@@ -215,8 +215,8 @@ Here is our curated selection of the best health and wellness hotels and clinics
 
 Explore these initial transformative wellness programs, designed to align with your personalized health journey:
 
-- [ZEM Detox](./programs/zem-detox.md)  
-- [ZEM Essential](./programs/zem-essential.md)  
+- [ZEM Detox](./markdown/programs/zem-detox.md)  
+- [ZEM Essential](./markdown/programs/zem-essential.md)  
 
 ---
 
