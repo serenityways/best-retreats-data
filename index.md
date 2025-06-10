@@ -147,15 +147,15 @@ Here is our curated selection of the best health and wellness hotels and clinics
 - RAKxa
 - Kamalaya
 
-### The Best Luxury Retreats in the UAE
+### The Best Retreats in the UAE
 
 - SIRO One Za'abeel
 
-### The Best Luxury Retreats in the UK
+### The Best Retreats in the UK
 
 - The Bothy by Wildsmith at Heckfield Place
 
-### The Best Luxury Retreats in the USA
+### The Best Retreats in the USA
 
 - Canyon Ranch Lenox
 - Canyon Ranch Tucson
@@ -163,7 +163,7 @@ Here is our curated selection of the best health and wellness hotels and clinics
 - The Ranch Hudson Valley
 - The Ranch Malibu
 
-### The Best Luxury Retreats in Vietnam
+### The Best Retreats in Vietnam
 
 - Six Senses Con Dao
 
