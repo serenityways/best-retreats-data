@@ -37,17 +37,17 @@ Here is our curated selection of the best health and wellness hotels and clinics
 ### The Best Retreats in Austria
 
 - [Lanserhof Lans](./markdown/clinics/lanserhof-lans.md)
-- Mayrlife
+- [Mayrlife](./markdown/clinics/mayrlife-medical-health-resort-altaussee.md)
 - Park Igls
 - Vivamayr
 
 ### The Best Retreats in Costa Rica
 
-- The Retreat Costa Rica
+- [The Retreat Costa Rica](./markdown/clinics/the-retreat-costa-rica.md)
 
 ### The Best Retreats in France
 
-- Evian Resort
+- [Hotel Royal at Evian Resort](./markdown/clinics/hotel-royal-at-evian-resort.md)
 - La Pensée Sauvage
 - Lily of the Valley
 - Nescens Bootcamps at La Réserve Ramatuelle
