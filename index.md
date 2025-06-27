@@ -37,7 +37,7 @@ Here is our curated selection of the best health and wellness hotels and clinics
 ### The Best Retreats in Austria
 
 - [Lanserhof Lans](./markdown/clinics/lanserhof-lans.md)
-- [Mayrlife](./markdown/clinics/mayrlife-medical-health-resort-altaussee.md)
+- [Mayrlife](./markdown/clinics/mayrlife.md)
 - Park Igls
 - Vivamayr
 
@@ -49,105 +49,105 @@ Here is our curated selection of the best health and wellness hotels and clinics
 
 - [Hotel Royal at Evian Resort](./markdown/clinics/hotel-royal-at-evian-resort.md)
 - La Pensée Sauvage
-- Lily of the Valley
-- Nescens Bootcamps at La Réserve Ramatuelle
+- [Lily of the Valley](./markdown/clinics/lily-of-the-valley.md)
+- [Nescens Bootcamps at La Réserve Ramatuelle](./markdown/clinics/la-reserve-ramatuelle.md)
 
 ### The Best Retreats in Germany
 
 - Buchinger
-- Lanserhof Sylt
-- Lanserhof Tegernsee
+- [Lanserhof Sylt](./markdown/clinics/lanserhof-sylt.md)
+- [Lanserhof Tegernsee](./markdown/clinics/lanserhof-tegernsee.md)
 - Schloss Elmau
-- Villa Stéphanie at Brenners Park
+- [Villa Stéphanie at Brenners Park](./markdown/clinics/villa-stephanie-brenners-park.md)
 
 ### The Best Retreats in Greece
 
 - Amazoe
 - Daios Cove
-- Euphoria Retreat
+- [Euphoria Retreat](./markdown/clinics/euphoria-retreat.md)
 
 ### The Best Retreats in India
 
 - [Amanbagh](./markdown/clinics/amanbagh.md) 
-- [Ananda](./markdown/clinics/ananda-spa.md)
-- Six Senses Vana
+- [Ananda](./markdown/clinics/ananda-in-the-himalayas.md)
+- [Six Senses Vana](./markdown/clinics/six-senses-vana.md)
 
 ### The Best Luxury Retreats in Indonesia
 
 - Amanwana
-- COMO Shambhala Estate
+- [COMO Shambhala Estate](./markdown/clinics/como-shambhala-estate.md)
 - Intaaya
 - NIHI Sumba
-- REVĪVŌ Wellness Resort
+- [REVĪVŌ Wellness Resort](./markdown/clinics/revivo.md)
 
 ### The Best Retreats in Italy
 
-- Adler Balance
+- [Adler Balance](./markdown/clinics/adler-balance.md)
 - Bagni di Pisa
 - Borgo Egnazia
-- [Chenot Espace at L'Albereta](./markdown/clinics/chenot-espace-l-albereta.md)
+- [Chenot Espace at L'Albereta](./markdown/clinics/espace-chenot-at-lalbereta.md)
 - Eremito
-- Forestis
+- [Forestis](./markdown/clinics/forestis.md)
 - Grotta Giusti
-- Lefay Dolomites
-- Lefay Lago di Garda
-- Palace Merano
-- Palazzo Fiuggi
+- [Lefay Dolomites](./markdown/clinics/lefay-dolomiti.md)
+- [Lefay Lago di Garda](./markdown/clinics/lefay-lago-di-garda.md)
+- [Palace Merano](./markdown/clinics/palace-merano.md)
+- [Palazzo Fiuggi](./markdown/clinics/palazzo-fiuggi.md)
 - Preidlhof
 - Terme di Saturnia
-- Villa Eden in Merano
+- [Villa Eden in Merano](./markdown/clinics/villa-eden.md)
 
 ### The Best Retreats in Mauritius
 
-- Royal Palm Beachcomber
+- [Royal Palm Beachcomber](./markdown/clinics/royal-palm-beachcomber-luxury.md)
 
 ### The Best Retreats in Mexico
 
-- Habitas Bacalar
-- Palmaïa the House of AïA
+- [Habitas Bacalar](./markdown/clinics/habitas-bacalar.md)
+- [Palmaïa the House of AïA](./markdown/clinics/palmaia-the-house-of-aia.md)
 - Rancho La Puerta
-- SHA Wellness Clinic Mexico
-- ZihFit
+- [SHA Wellness Clinic Mexico](./markdown/clinics/sha-wellness-clinic-mexico.md)
+- [ZihFit](./markdown/clinics/zihfit.md)
 
 ### The Best Retreats in Maldives
 
 - Ananda at The Nautilus Maldives
 - COMO Maalifushi
-- JA Manafaru
-- JOALI Being
+- [JA Manafaru](./markdown/clinics/ja-manafaru.md)
+- [JOALI Being](./markdown/clinics/joali-being.md)
 - Soneva Fushi
 
 ### The Best Retreats in Montenegro
 
-- Espace Chenot at One&Only Portonovi
+- [Espace Chenot at One&Only Portonovi](./markdown/clinics/espace-chenot-at-oneonly-portonovi.md)
 
 ### The Best Retreats in Morocco
 
 - Chenot Spa at Selman Marrakech
-- Royal Mansour Tamuda Bay
+- [Royal Mansour Tamuda Bay](./markdown/clinics/royal-mansour-tamuda-bay.md)
 
 ### The Best Retreats in Qatar
 
-- Zulal Discovery at Zulal by Chiva-Som
-- Zulal Serenity at Zulal by Chiva-Som
+- [Zulal Discovery at Zulal by Chiva-Som](./markdown/clinics/zulal-discovery-by-chiva-som.md)
+- [Zulal Serenity at Zulal by Chiva-Som](./markdown/clinics/zulal-serenity-by-chiva-som.md)
 
 ### The Best Retreats in Portugal
 
 - Casa Palmela
-- Six Senses Douro Valley
+- [Six Senses Douro Valley](./markdown/clinics/six-senses-douro-valley.md)
 
 ### The Best Retreats in Singapore
 
-- [Chi Longevity at Four Seasons Singapore](./markdown/clinics/chi-longevity-four-seasons-singapore.md) 
+- [Chi Longevity at Four Seasons Singapore](./markdown/clinics/chi-longevity-at-four-seasons-singapore.md) 
 
 ### The Best Retreats in Spain
 
 - Buchinger Wilhelmi
-- Camiral
+- [Camiral](./markdown/clinics/camiral.md)
 - Marbella Club
-- SHA Wellness Clinic Spain
+- [SHA Wellness Clinic Spain](./markdown/clinics/sha-wellness-clinic-spain.md)
 - Shanti-Som Wellbeing Retreat
-- Six Senses Ibiza
+- [Six Senses Ibiza](./markdown/clinics/six-senses-ibiza.md)
 - [ZEM Wellness Clinic Altea](./markdown/clinics/zem-wellness-clinic-altea.md)
 
 ### The Best Retreats in St. Barth
@@ -160,32 +160,32 @@ Here is our curated selection of the best health and wellness hotels and clinics
 - Amanwella
 - Amangalla
 - Santani
-- Kayaam House
+- [Kayaam House](./markdown/clinics/kayaam-house.md)
 
 ### The Best Retreats in Switzerland
 
 - Bürgenstock
-- Chenot Palace Weggis
+- [Chenot Palace Weggis](./markdown/clinics/chenot-palace-weggis.md)
 - Clinique La Prairie
-- Clinique Nescens
-- Grand Resort Bad Ragaz
-- Nescens Bootcamps at La Réserve Genève
+- [Clinique Nescens](./markdown/clinics/clinique-nescens.md)
+- [Grand Resort Bad Ragaz](./markdown/clinics/grand-resort-bad-ragaz.md)
+- [Nescens Bootcamps at La Réserve Genève](./markdown/clinics/la-reserve-geneve.md)
 
 ### The Best Retreats in Thailand
 
-- Amanpuri
-- Chiva-Som Hua Hin
-- RAKxa
-- Kamalaya
+- [Amanpuri](./markdown/clinics/amanpuri.md)
+- [Chiva-Som Hua Hin](./markdown/clinics/chiva-som-hua-hin.md)
+- [RAKxa](./markdown/clinics/rakxa.md)
+- [Kamalaya](./markdown/clinics/kamalaya.md)
 
 ### The Best Retreats in the UAE
 
 - Longevity Hub by Clinique La Prairie at One&Only One Za’abeel
-- SIRO One Za'abeel
+- [SIRO One Za'abeel](./markdown/clinics/siro-one-zaabeel.md)
 
 ### The Best Retreats in the UK
 
-- The Bothy by Wildsmith at Heckfield Place
+- [The Bothy by Wildsmith at Heckfield Place](./markdown/clinics/.md)
 - The Glass House Retreat
 - Wild Wellness at Gleneagles
 - Yeotown Devon
@@ -194,20 +194,20 @@ Here is our curated selection of the best health and wellness hotels and clinics
 
 - Amangiri
 - Cal-a-Vie
-- Canyon Ranch Lenox
-- Canyon Ranch Tucson
-- Canyon Ranch Woodside
+- [Canyon Ranch Lenox](./markdown/clinics/canyon-ranch-lenox.md)
+- [Canyon Ranch Tucson](./markdown/clinics/canyon-ranch-tucson.md)
+- [Canyon Ranch Woodside](./markdown/clinics/canyon-ranch-woodside.md)
 - Golden Doors
 - Mii Amo
 - Miraval Arizona
 - Miraval Austin
 - Miraval Berkshires
-- The Ranch Hudson Valley
-- The Ranch Malibu
+- [The Ranch Hudson Valley](./markdown/clinics/the-ranch-hudson-valley.md)
+- [The Ranch Malibu](./markdown/clinics/the-ranch-malibu.md)
 
 ### The Best Retreats in Vietnam
 
-- Six Senses Con Dao
+- [Six Senses Con Dao](./markdown/clinics/six-senses-con-dao.md)
 
 ---
 
