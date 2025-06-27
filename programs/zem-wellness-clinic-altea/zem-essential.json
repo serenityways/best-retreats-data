@@ -8,6 +8,7 @@
   "Available durations": "3, 7, 14 and 21 nights",
   "Starting price": "From €5,000",
   "StartingPriceInclusions": "The starting price includes a 3-night stay in a Deluxe Suite with double occupancy, medical intake and review, health diagnostics, bioenergetic tests, one IV infusion, one energy therapy, one aesthetic or physiotherapy session, customized nutritional consultation, full board with ZEM Essential Nutritional Plan, and free access to the regenerative spa.",
+  "Exclusive benefits when booking with Serenity Ways": "Serenity Ways clients enjoy €200 credit per person for wellness treatments (for programs of 7 nights and more), early check-in and late check-out, and welcome amenities.",
   "PricingTable": {
     "headers": ["Room Category", "Occupancy", "3 nights", "7 nights", "14 nights", "21 nights"],
     "rows": [
