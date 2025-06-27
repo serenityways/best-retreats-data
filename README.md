@@ -1,2 +1,2 @@
 # wellness-clinics
-Curated data about the best wellness retreats
+Curated data about the best medical wellness retreats
