@@ -1,46 +1,46 @@
-# Espace Chenot at L’Albereta
+# Espace Chenot at L'Albereta
 
 **Location:** Erbusco, Italy  
-**Address:** Via Vittorio Emanuele, 23, 25030 Erbusco BS  
+**Address:** Via Vittorio Emanuele, 23, 25030 Erbusco BS, Italy  
 **Languages Spoken:** English, Italian, Russian, French
 
 ---
 
 ## Summary
 
-Medical‑grade Chenot Method® in a Relais & Châteaux estate, blending diagnostics, detox and rejuvenation.
+Explore the famous Chenot detox programs and experience L'Albereta: we tested them for you.
 
 ---
 
 ## Full Description
 
-Espace Chenot at L’Albereta is a medically‑supervised wellness spa set in a 19th‑century Relais & Châteaux villa in Franciacorta. Over 20 years it has delivered customizable Chenot Method® programs from 3–7 days, combining Western diagnostics, Chinese therapies, plant‑based nutrition and hydrotherapy, all complemented by luxury hospitality, local culture and outdoor vineyard or lake experiences.
+Espace Chenot at L'Albereta offers a unique wellness experience in the heart of Franciacorta, Italy. This elegant retreat combines the renowned Chenot Method with the serene environment of a Relais & Chateaux property. Guests can enjoy tailored wellness programs, including detox and rejuvenation, enhanced by the estate's natural beauty. The Chenot Diet® complements the wellness programs with plant-based, reduced-calorie meals. Exclusive benefits and a family-friendly atmosphere make it a perfect getaway.
 
 ---
 
 ## Unique Strengths
 
-- **Relais & Châteaux Setting:** Luxury hospitality in a historic villa surrounded by vineyards and Lake Iseo views.
-- **Flexible Chenot Programs:** 3–7 day customizable detox and energy programs with à la carte treatments.
-- **Advanced Medical Diagnostics:** BIO‑energetic checks, hydro‑therapy, cryotherapy and nutritional consulting under medical supervision.
+- **Chenot Method:** Renowned for its scientifically-backed approach, offering long-lasting wellness benefits.
+- **Stunning hotel in the vineyards:** Located in Franciacorta, offering a serene and luxurious environment.
+- **Exclusive, personalized experience:** Highly personalized treatments ensure a unique wellness journey for each guest.
 
 ---
 
 ## Health & Wellness Approach
 
-The Chenot Method® integrates Western diagnostics and traditional Chinese therapeutic modalities—including hydrotherapy, cupping, energetic massage, mud wraps and cryotherapy—personalized through biomarker testing to restore vitality, rebalance energy and optimize cellular function in a medically supervised environment. Spa offerings can be à la carte or part of short-to mid-length programs.
+At L'Albereta, the Chenot Method is adapted to enhance holistic wellness, integrating with the natural surroundings. Tailored programs incorporate local terroir, promoting mental clarity and emotional balance. Outdoor activities like vineyard walks and forest bathing are included. The Chenot Method offers a blend of medical expertise, local culture, and natural beauty, providing a unique wellness experience.
 
 ---
 
 ## Nutrition Approach
 
-High‑quality plant‑based Chenot Diet® (Biolight), low‑calorie and low‑GI to stimulate detox and cell repair. Meals are crafted by chefs to combine nutrition and local Franciacorta flavors, supporting detox and metabolic rebalance.
+Espace Chenot at L'Albereta incorporates the Chenot Diet®, focusing on plant-based, reduced-calorie meals to stimulate detoxification. Each meal is crafted to nourish while triggering fasting responses for cellular repair. The culinary team blends Chenot dietary principles with local flavors, ensuring meals are nutritious and delightful, complementing the wellness programs.
 
 ---
 
 ## Serenity Ways Exclusive Benefits
 
-Arrival upgrade subject to availability, daily buffet breakfast, complimentary 50‑min massage or wine tasting, early/late check‑in, Wi‑Fi, €100 spa credit and wine & fruit welcome (suite bookings).
+Serenity Ways clients enjoy amenities like upgrade on arrival, daily buffet breakfast, a complimentary massage or wine tasting, early check-in/late check-out, and complimentary Wi-Fi.
 
 [Explore on Serenity Ways](https://serenityways.com/collections/espace-chenot-albereta)
 
@@ -48,41 +48,41 @@ Arrival upgrade subject to availability, daily buffet breakfast, complimentary 5
 
 ## Practical Information
 
-**Location Highlights:** Set in Franciacorta vineyard hills near Lake Iseo, with panoramic views, hiking, vineyard walks, forest bathing, golf nearby and cultural wineries.  
-**Access:** Car: 30min from Milan‑Bergamo, 1h20 from Milan MXP, 1h20 from Verona; helipad on‑site; free parking.  
-**Family Friendly:** Yes, hotel family‑friendly with kids club; Chenot programs adult‑focused, children must be supervised.  
-**Pet Friendly:** Yes, pets welcome (€50/night), rooms with garden access, subject to availability.
+**Location Highlights:** Nestled in Franciacorta, surrounded by vineyards with views of Lake Iseo and the Alps. Ideal for tranquility and gourmet experiences.  
+**Access:** Address: Via Vittorio Emanuele, 23, 25030 Erbusco BS, Italy. Arrival by Car: From Milan: 1 hr 20 min, From Bergamo: 30 min, Nearest Airport: Milan Bergamo Airport (BGY): 40 min by car.  
+**Family Friendly:** The Chenot programs are designed for adults, but L'Albereta is family-friendly with a kids' area.  
+**Pet Friendly:** Pets are welcome at L'Albereta, with a charge of 50€ per night.
 
 ---
 
 ## Booking & Cancellation
 
-**Booking Policy:** Program fees paid in full at least 7 days before start; accommodation separate via hotel.  
-**Cancellation Policy:** Free cancellation up to 7 days before arrival; thereafter 100% cancellation fee. Treatments non‑refundable.
+**Booking Policy:** The program fees must be paid in full at least 7 days prior to the program's start date.  
+**Cancellation Policy:** Cancellations are possible up to 7 days before arrival, free of charge. After that, the cancellation fee is 100%.
 
 ---
 
 ## FAQs
 
-**Q: Can I stay for fewer than 7 days?**
+**Q: What makes Chenot Espace at L'Albereta different from other Chenot locations?**
 
-A: Yes – Espace Chenot offers short programs of 3–4 days as well as full 7‑night cures.
+A: Espace Chenot at L'Albereta offers à la carte treatments, ideal for short stays, with a dedicated medical department for personalized programs.
 
-**Q: Are treatments à la carte possible?**
+**Q: Can children accompany guests at L'Albereta?**
 
-A: Yes – treatments can be chosen individually outside standard programs.
+A: Yes, L'Albereta has a kids' club and childcare services available for children while parents enjoy wellness programs.
 
-**Q: Is the Chenot Diet included?**
+**Q: What is the best-selling program?**
 
-A: Yes – all programs include the plant‑based Chenot Diet®, tailored to detox goals.
+A: The Chenot Advanced Detox program is the most acclaimed, offering a deep body cleanse and reset.
 
-**Q: Are children allowed?**
+**Q: What dining options are available for wellness guests?**
 
-A: Yes – hotel is family‑friendly with kids club, but Chenot programs are adults only; children must be with a guardian.
+A: The Chenot Biolight menu complements detox programs with light, nutritious meals. Other dining options are available.
 
-**Q: Can I bring a pet?**
+**Q: Can I combine fitness with a detox program at L'Albereta?**
 
-A: Yes – pets stay for €50/night in garden‑access rooms, subject to availability.
+A: Yes, the Chenot Fitness Boost program combines detox treatments with personal fitness plans to improve strength and endurance.
 
 
 ---

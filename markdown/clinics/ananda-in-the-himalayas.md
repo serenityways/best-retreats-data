@@ -1,46 +1,46 @@
 # Ananda in the Himalayas
 
-**Location:** Hardwar, India  
-**Address:** P.O. Narendra Nagar, Tehri Garhwal, Uttarakhand 249175, India  
+**Location:** Narendra Nagar, India  
+**Address:** The Palace Estate, Narendra Nagar, Tehri - Garhwal, Uttarakhand 249175, India  
 **Languages Spoken:** English, Hindi
 
 ---
 
 ## Summary
 
-Luxury Indian wellness retreat offering Ayurveda, yoga, meditation, detox and holistic therapies in a former Maharaja’s palace.
+Ananda is a peaceful haven in the Himalayas with wellness programs. Enjoy VIP perks and find the ideal program for your objectives.
 
 ---
 
 ## Full Description
 
-Ananda in the Himalayas is a premier wellness retreat located in the Himalayan foothills near Rishikesh, set in a former Maharaja’s palace with views over the Ganges and forests. It combines traditional Ayurveda, yoga, meditation, detox, emotional healing, and modern holistic therapies like hypnotherapy, reiki and Tibetan healing, with guided excursions and nutritious cuisine tailored to wellness goals.
+One of the world’s finest holistic wellness retreats, Ananda is located in the Himalayan foothills. It offers personalized wellness journeys integrating ancient sciences and contemporary practices. The resort features a luxurious spa, yoga and meditation pavilions, and a focus on Ayurveda, yoga, emotional healing, and healthy cuisine. With expert wellness practitioners, Ananda provides a sanctuary for balance and harmony.
 
 ---
 
 ## Unique Strengths
 
-- **Palace‑style Himalayan Setting:** Set in a historic Maharaja’s palace with panoramic foothill and Ganges views.
-- **Comprehensive Wellness Programs:** Ajuna® Ayurveda, Yoga, Detox & Emotional Healing programs from 7–21 days.
-- **Holistic Therapies:** Treatments include Ayurveda, Chinese & Tibetan medicine, hypnotherapy, reiki, emotional healing, and physiotherapy.
+- **Signature Wellness Programs:** Personalized wellness journeys integrating ancient sciences and contemporary practices.
+- **Luxurious Spa:** Award-winning spa with treatments from traditional Ayurvedic to international therapies.
+- **Spiritual Location:** Nestled in the Himalayan foothills, offering a tranquil sanctuary with nature’s healing energy.
 
 ---
 
 ## Health & Wellness Approach
 
-Ananda integrates traditional Ayurvedic therapies, classical yoga and meditation with Tibetan and Chinese medicine, hypnotherapy, reiki, emotional healing, physiotherapy and detox, following personalized wellness pathways designed to reset mind, body, and spirit under expert guidance.
+Ananda offers integrative wellness programs addressing lifestyle disorders through Ayurveda, yoga, meditation, and emotional healing. The expert team provides personalized programs focusing on holistic wellness, spiritual awareness, and healthy cuisine, ensuring a path to balance and harmony.
 
 ---
 
 ## Nutrition Approach
 
-Guests enjoy organic Ayurvedic meals tailored to dosha and wellness programs; international and simple, wholesome cuisine supports healing and detoxification goals.
+Ananda’s wellness cuisine emphasizes fresh, natural foods tailored to individual body types to promote balance. The spa features therapy rooms, yoga pavilions, and an outdoor pool. Activities include yoga, meditation, trekking, and cultural excursions, contributing to holistic and spiritual well-being.
 
 ---
 
 ## Serenity Ways Exclusive Benefits
 
-Upgrade on arrival, spa credit, complimentary yoga session, guided Ganges excursion, and dedicated wellness consultant support.
+Serenity Ways clients enjoy exclusive amenities: guaranteed upgrade at booking, daily full breakfast, complimentary 50-minute massage, early check-in and late check-out, and complimentary Wi-Fi.
 
 [Explore on Serenity Ways](https://serenityways.com/collections/ananda-in-the-himalayas)
 
@@ -48,41 +48,41 @@ Upgrade on arrival, spa credit, complimentary yoga session, guided Ganges excurs
 
 ## Practical Information
 
-**Location Highlights:** Himalayan foothills near Rishikesh with panoramic forest and Ganges views; historical palace structure; guided spiritual and nature excursions.  
-**Access:** Fly to New Delhi (DEL), then 1h flight to Dehradun (DED), followed by 45 min private transfer to retreat.  
-**Family Friendly:** No – adults only (13+ allowed only under supervision).  
-**Pet Friendly:** No
+**Location Highlights:** Mountain retreat in the Himalayan foothills with panoramic views of the Ganga River and serene environment.  
+**Access:** Nearest international airport: Indira Gandhi International Airport (DEL) in New Delhi, with a 1-hour domestic flight to Jolly Grant Airport (DED) in Dehradun, followed by a 45-minute drive.  
+**Family Friendly:** No - the resort is focused on adult wellness and does not accommodate children under 14.  
+**Pet Friendly:** No - pets are not allowed.
 
 ---
 
 ## Booking & Cancellation
 
-**Booking Policy:** 100% deposit required to confirm; payment processed securely by the hotel.  
-**Cancellation Policy:** Free cancellation ≥21 days; 50% penalty if between 15–21 days; 100% forfeiture within 15 days.
+**Booking Policy:** A deposit of 100% of the total amount is required to confirm the booking.  
+**Cancellation Policy:** Cancellations 21 days or more prior to arrival incur no penalty. Cancellations 15-21 days prior incur a 50% penalty. Cancellations within 15 days forfeit 100% of the deposit. Villas and suites have a 45-day policy.
 
 ---
 
 ## FAQs
 
-**Q: What wellness programmes are available?**
+**Q: What wellness programs are available at Ananda?**
 
-A: Ananda offers Ayurveda, Yoga & Meditation, Detox & Emotional Healing programmes, customizable from 7 to 21 days.
+A: Ananda offers Ayurvedic therapies, yoga retreats, detox programs, and holistic treatments.
 
-**Q: What holistic therapies are offered?**
+**Q: What types of accommodations are offered at Ananda?**
 
-A: Therapies include Ayurvedic treatments, meditation, Tibetan and Chinese medicine, reiki, hypnotherapy, physiotherapy and emotional healing.
+A: Accommodations include palace-view rooms, valley-view suites, and private villas.
 
-**Q: Is the retreat adult‑only?**
+**Q: What dining options are available at Ananda?**
 
-A: Yes – Ananda is focused on adult wellness; children 13+ only accompanied by an adult.
+A: Dining options include Ayurvedic and international cuisines tailored to guests' wellness goals.
 
-**Q: Are dietary needs accommodated?**
+**Q: What is the location of Ananda in the Himalayas?**
 
-A: Yes – meals are tailored to Ayurvedic dosha, dietary restrictions and health programmes.
+A: Ananda is located in the Himalayan foothills near Rishikesh, India.
 
-**Q: Are there guided excursions?**
+**Q: What activities are available for guests at Ananda?**
 
-A: Yes – guided treks, Ganges excursions, mindfulness and cultural visits are included.
+A: Guests can participate in yoga, meditation, trekking, and cultural excursions.
 
 
 ---

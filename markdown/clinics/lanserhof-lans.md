@@ -1,46 +1,46 @@
 # Lanserhof Lans
 
 **Location:** Lans, Austria  
-**Address:** Kochholzweg 153, 6072 Lans, Tyrol, Austria  
+**Address:** Kochholzweg 153, 6072 Lans bei Innsbruck, Austria  
 **Languages Spoken:** German, English
 
 ---
 
 ## Summary
 
-Pioneering medical‑wellness retreat in the Tyrolean Alps offering personalized detox, regeneration, fitness and diagnostics.
+Lanserhof invites you to a life-changing retreat, where you will embrace healthier habits.
 
 ---
 
 ## Full Description
 
-Lanserhof Lans is the original location of the renowned Lanserhof medical‑wellness brand, set in the Tyrolean Alps near Innsbruck. It offers personalized health programmes featuring modern Mayr medicine, naturopathy, advanced diagnostics, fitness therapies, hydrotherapy, and mental coaching—all within a serene alpine spa setting with luxurious minimalist rooms.
+Lanserhof Lans, established in 1984, is renowned for its holistic approach to natural healing and state-of-the-art medicine. The resort offers personalized health programs integrating modern diagnostics, naturopathy, and innovative therapies to promote self-healing and regeneration. Nestled in the Tyrolean Alps, Lanserhof Lans provides a tranquil environment conducive to relaxation and healing, with breathtaking mountain views.
 
 ---
 
 ## Unique Strengths
 
-- **LANS Med Concept:** Integrates modern Mayr medicine with naturopathy, diagnostics and regenerative therapies.
-- **Alpine Sanctuary:** Nestled on a sunny plateau in the Tyrolean Alps with panoramic mountain views.
-- **State‑of‑the‑Art Wellness Facilities:** Saltwater pools, sauna, fitness studio, and hydrotherapies in a modern spa complex.
+- **Pioneering Health Retreat:** Renowned for its holistic approach to natural healing and state-of-the-art medicine.
+- **Comprehensive Medical Programs:** Personalized health programs integrating modern diagnostics and innovative therapies.
+- **Serene Alpine Setting:** Tranquil environment with breathtaking mountain views, ideal for relaxation and healing.
 
 ---
 
 ## Health & Wellness Approach
 
-The Lanserhof Concept combines comprehensive medical diagnostics and personalized Mayr-naturopathic detox with regeneration programmes, physical medicine, mental coaching, and fitness interventions. Emphasis is on activating self-healing, metabolic reset, and holistic vitality in a medically supervised, tranquil alpine setting.
+Lanserhof Lans' wellness philosophy centers on the Lanserhof Concept, combining traditional naturopathy with modern medical practices. The program focuses on detoxification, regeneration, and the activation of the body's self-healing powers. Guests undergo comprehensive diagnostics to tailor individualized treatment plans, including therapies such as fasting cures, physical medicine, and mental coaching.
 
 ---
 
 ## Nutrition Approach
 
-Nutrition follows the Energy & Power cuisine tailored to the individual’s detox and regeneration plan. Light, organic, easily digestible meals support metabolic balance and healing, based on diagnostic findings.
+The resort emphasizes a nutrition philosophy that supports the body's natural detoxification and regeneration processes. The dietary program is personalized based on individual health assessments, often incorporating elements of the Lanserhof Energy Cuisine, focusing on light, easily digestible meals prepared with fresh, organic ingredients.
 
 ---
 
 ## Serenity Ways Exclusive Benefits
 
-Room upgrade (subject to availability), early check‑in/late check‑out, spa credit, VIP gift from GM, single-occupancy at double rate during Jun–Sep offers.
+Serenity Ways clients enjoy exclusive perks: room upgrade upon availability, early check-in and late check-out, a spa credit, and more.
 
 [Explore on Serenity Ways](https://serenityways.com/collections/lanserhof-lans)
 
@@ -48,41 +48,41 @@ Room upgrade (subject to availability), early check‑in/late check‑out, spa c
 
 ## Practical Information
 
-**Location Highlights:** Mountain retreat near Innsbruck with panoramic Alps views; surrounded by forested plateaus and meadows for walking and relaxation.  
-**Access:** 20 min by car from Innsbruck Airport; free parking; private transfers available.  
-**Family Friendly:** No  
-**Pet Friendly:** No
+**Location Highlights:** Mountain retreat; located near Innsbruck in the Tyrolean Alps, offering stunning natural surroundings.  
+**Access:** Nearest international airport: Innsbruck Airport (INN), approximately a 20-minute drive from the resort.  
+**Family Friendly:** No; the resort is designed for adults seeking a focused health retreat.  
+**Pet Friendly:** No; pets are not allowed.
 
 ---
 
 ## Booking & Cancellation
 
-**Booking Policy:** 50% deposit required to confirm booking; payments processed directly by the hotel.  
-**Cancellation Policy:** Free cancellation >30 days before arrival; deposit forfeited if cancelled within 30 days.
+**Booking Policy:** A deposit of 50% of the total amount is required to confirm the booking.  
+**Cancellation Policy:** Cancellations made more than 30 days prior to arrival will receive a full refund. Cancellations within 30 days forfeit the deposit.
 
 ---
 
 ## FAQs
 
-**Q: What makes Lanserhof Lans unique?**
+**Q: What is unique about Lanserhof Lans?**
 
-A: It is the original Lanserhof site offering the pioneering LANS Med Concept combining medicine and naturopathy in an alpine setting.
+A: It is the original Lanserhof location, offering holistic medical and therapeutic programs.
 
 **Q: What wellness programs are available?**
 
-A: Programs include detox, regenerative medicine, fitness therapies, mental coaching, and Mayr-based health regimes.
+A: Programs include detox, regenerative medicine, and fitness therapies.
 
-**Q: Is it family‑friendly?**
+**Q: What accommodations are available?**
 
-A: No – the retreat is designed exclusively for adults seeking focused health programmes.
+A: Modern, luxurious rooms with a serene and minimalist design.
 
-**Q: Are pets allowed?**
+**Q: What facilities are offered?**
 
-A: No – pets are not permitted on the property.
+A: Facilities include medical diagnostics, saunas, and a state-of-the-art fitness center.
 
-**Q: What is required to confirm a booking?**
+**Q: Where is Lanserhof Lans located?**
 
-A: A 50% deposit is required at booking; cancellation within 30 days forfeits the deposit.
+A: It is located in Lans, near Innsbruck, Austria.
 
 
 ---

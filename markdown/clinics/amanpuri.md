@@ -1,46 +1,46 @@
 # Amanpuri
 
 **Location:** Phuket, Thailand  
-**Address:** West Coast Rd, Pansea Beach, Kalim, Phuket 83110, Thailand  
+**Address:** Pansea Beach, Cherngtalay, Thalang District, Phuket 83110, Thailand  
 **Languages Spoken:** English, Thai
 
 ---
 
 ## Summary
 
-Iconic luxury wellness and leisure resort in a beachfront Thai-style pavilion complex with holistic, medical and performance wellness offerings.
+One of the best beach hotels in the world, Amanpuri offers a full range of wellness programs with VIP perks.
 
 ---
 
 ## Full Description
 
-Amanpuri is the flagship Aman resort, set on a private peninsula in Phuket with traditional Thai-style pavilions and villas. Its holistic wellness centre offers medical anti-aging, detox, stress management, sports recovery and aesthetic programs, alongside yoga, Muay Thai, pilates, hydrotherapy, and spa therapies. Personalised health interventions include diagnostics, naturopathy, and wellness coaching by Thanyapura medical experts.
+Amanpuri in Phuket, Thailand, is a renowned wellness retreat offering holistic programs that integrate physical fitness, mental well-being, and spiritual balance. Situated on a private peninsula, it provides a tranquil environment with luxurious spa facilities. The Aman Spa offers treatments blending traditional Thai techniques with modern practices. Dining options include Thai, Italian, and Japanese cuisines, supporting wellness programs with fresh, organic ingredients.
 
 ---
 
 ## Unique Strengths
 
-- **Flagship Aman Peninsula Retreat:** Set on its own peninsula with secluded beach, iconic Aman pavilions and villas with panoramic Andaman Sea views.
-- **Holistic & Medical Wellness:** Integrated wellness centre offering medical anti‑ageing, detox, fitness, Muay Thai and spa programmes under expert supervision.
-- **Comprehensive Wellness Facilities:** Includes spa suites, hydrotherapy, pilates & yoga pavilions, gym, Muay Thai ring, tennis courts and beach activities.
+- **Holistic Wellness Retreats:** Comprehensive programs tailored to individual needs, integrating fitness, mental well-being, and spiritual balance.
+- **Secluded Beachfront Location:** Located on a private peninsula overlooking the Andaman Sea, ideal for relaxation and rejuvenation.
+- **Luxurious Spa Facilities:** Aman Spa offers therapies blending traditional Thai techniques with modern wellness practices.
 
 ---
 
 ## Health & Wellness Approach
 
-Amanpuri blends holistic wellness with medically informed programmes featuring preventative and anti‑ageing diagnostics, detox, fitness and stress management. Modalities include naturopathy, Muay Thai, pilates, yoga, hydrotherapy, physiotherapy and more, all delivered by Thanyapura‑backed medical professionals in collaboration with Aman Spa therapists.
+Amanpuri's wellness philosophy focuses on personalized holistic retreats addressing physical, mental, and spiritual well-being. Programs like detoxification and stress management are tailored to individual goals. The Aman Spa provides treatments combining Thai healing methods with modern practices. Mindfulness practices, such as meditation, support mental clarity and emotional balance, ensuring a transformative wellness experience.
 
 ---
 
 ## Nutrition Approach
 
-Wellness-focused cuisine including Thai, Japanese and Mediterranean menus, alongside naturopath-designed plant-based plans. Guests can enjoy juice bars and nutrition coaching personalised to wellness goals.
+Amanpuri offers Thai, Italian, and Japanese cuisines, using fresh, organic ingredients. Menus support wellness programs without strict calorie restrictions. Guests can consult with nutritionists for personalized dietary guidance, ensuring a flexible dining experience that complements their wellness journey.
 
 ---
 
 ## Serenity Ways Exclusive Benefits
 
-Complimentary villa/spa pavilion upgrade (subject to availability), spa credit, arrival wellness consultation, early check-in/late check-out and Aman Peninsula welcome amenities.
+Serenity Ways clients enjoy exclusive amenities at Amanpuri: upgrade on arrival, $100 USD food & beverage credit, early check-in/late check-out, and complimentary Wi-Fi.
 
 [Explore on Serenity Ways](https://serenityways.com/collections/amanpuri)
 
@@ -48,41 +48,41 @@ Complimentary villa/spa pavilion upgrade (subject to availability), spa credit, 
 
 ## Practical Information
 
-**Location Highlights:** Private peninsula on Phuket’s west coast with a secluded beach, teeming marine activities, cultural excursions and sunset views over Andaman Sea.  
-**Access:** 25 min drive from Phuket International Airport; on-site helipad; private boat and driver arrangements available.  
-**Family Friendly:** Yes – Amanpuri welcomes families; integrated kids’ hub with supervised activities while adults enjoy wellness.  
-**Pet Friendly:** No
+**Location Highlights:** Beach resort on a private peninsula with direct beach access, ideal for relaxation and water-based wellness activities.  
+**Access:** Nearest international airport: Phuket International Airport (HKT), approximately a 30-minute drive from the resort.  
+**Family Friendly:** Yes; children are allowed, with family-friendly accommodations and activities available.  
+**Pet Friendly:** No; pets are not allowed.
 
 ---
 
 ## Booking & Cancellation
 
-**Booking Policy:** Booking & payment managed directly by Aman; Serenity Ways secures exclusive perks and consultation. Payment guaranteed via hotel.  
-**Cancellation Policy:** Varying by stay plan; typically free cancellation 14–30 days before arrival, full fees apply closer to arrival. Specific policies per wellness programme.
+**Booking Policy:** A deposit of 50% of the total amount is required to confirm the booking.  
+**Cancellation Policy:** Cancellations made more than 14 days prior to arrival will receive a full refund. Cancellations within 14 days will forfeit the deposit.
 
 ---
 
 ## FAQs
 
-**Q: What wellness programmes are available?**
+**Q: What accommodations does Amanpuri offer?**
 
-A: Holistic and medical programmes include Medical Wellness, Detox & Anti‑Ageing, Sports Recovery, Stress Management, and Wellness Discovery (1‑2 day intro programmes).
+A: Private pavilions and villas with pools, designed in traditional Thai architecture.
 
-**Q: Does Amanpuri offer medical diagnostics?**
+**Q: What wellness facilities are available at Amanpuri?**
 
-A: Yes – medical diagnostics include blood & urine panels, biomarkers, genetic & intolerance tests overseen by Thanyapura medical team.
+A: Comprehensive wellness center with spa treatments, yoga, and holistic therapies.
 
-**Q: Can families stay here?**
+**Q: What dining options are offered at Amanpuri?**
 
-A: Yes – families are welcome and children’s programmes operate alongside adult wellness offerings.
+A: Dining options include Thai, Japanese, and Mediterranean cuisines.
 
-**Q: What fitness & sports facilities are available?**
+**Q: What activities can guests enjoy?**
 
-A: Fitness options include yoga, pilates, Muay Thai ring, glass-walled gym, tennis courts, water sports and private fitness coaching.
+A: Water sports, tennis, cultural excursions, and wellness workshops.
 
-**Q: Are spa and wellness treatments included?**
+**Q: How do guests reach Amanpuri?**
 
-A: Spa treatments can be à la carte or part of wellness programmes; hydrotherapy, massages and body treatments are available.
+A: A 25-minute drive from Phuket International Airport.
 
 
 ---

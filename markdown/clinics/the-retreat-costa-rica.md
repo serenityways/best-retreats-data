@@ -1,46 +1,46 @@
 # The Retreat Costa Rica
 
 **Location:** Atenas, Costa Rica  
-**Address:** Barrio Jesús de Atenas, Altos del Monte, Costa Rica  
+**Address:** Barrio Jesús de Atenas, Costa Rica  
 **Languages Spoken:** English, Spanish
 
 ---
 
 ## Summary
 
-A soulful wellness haven in Costa Rica blending organic cuisine, healing spa rituals, and nature-based transformation.
+The Retreat Costa Rica - an inspired retreat for holistic wellness.
 
 ---
 
 ## Full Description
 
-The Retreat Costa Rica is a serene boutique wellness resort nestled in the lush hills of Atenas, offering an integrative healing experience through plant-based cuisine, farm-to-spa treatments, emotional healing and spiritual guidance. Founded by wellness expert Diana Stobo, it’s a perfect place to detox, reconnect, and restore balance while surrounded by tropical nature and expert holistic care.
+The Retreat Costa Rica offers holistic programs that heal deep stress and burnout. Nestled on a crystal mountain, it blends Ayurveda, detox, and modern therapies. Guests enjoy a plant-based anti-inflammatory diet, farm-to-table cuisine, and a unique environment among the soothing rhythms of nature. The Retreat is a sanctuary for wellness programs, spiritual retreats, and Ayurveda cures, designed to strengthen, nourish, and renew.
 
 ---
 
 ## Unique Strengths
 
-- **Founder-Led Transformation:** Founded by wellness expert Diana Stobo, The Retreat blends energy healing, detox, and spiritual coaching with luxury hospitality.
-- **Farm-to-Spa Healing:** Organic garden provides the ingredients for both gourmet plant-based meals and natural spa treatments.
-- **Intimate Hilltop Haven:** With just 19 rooms, this adults-only sanctuary offers panoramic views and deeply personalized care.
+- **A special place:** Nestled on a crystal mountain, The Retreat offers a unique vision of holistic wellness.
+- **Profound healing:** Combines Ayurveda, detox, and modern therapies for transformative journeys.
+- **Organic cuisine:** Enjoy plant-based, farm-to-table meals from their own organic garden.
 
 ---
 
 ## Health & Wellness Approach
 
-The Retreat offers a soul-centered wellness experience combining healing rituals, spiritual practices, and energy medicine with luxury hospitality. Guests enjoy programs focused on stress reduction, detox, and emotional healing, supported by nature, organic food, natural spa treatments, and expert-led holistic therapies. Daily activities include yoga, meditation, and workshops for inner transformation.
+The Retreat is a sanctuary for wellness programs, spiritual retreats, Ayurveda cures, and healthy gastronomy. It offers a unique environment with stunning views of the Costa Rican rainforest and the Pacific Ocean. Guests are pampered at Vida Mía Healing Spa, enjoy daily yoga, and savor organic cuisine. The Retreat supports guests in their desired experiences, offering a blank canvas for personal growth.
 
 ---
 
 ## Nutrition Approach
 
-Cuisine is plant-based, anti-inflammatory, gluten-free and dairy-free, made with ingredients from the on-site organic farm. The menus are crafted to support detox, gut healing, and energy balance, prepared with love and designed to delight the senses while nourishing the body and mind.
+Menus are based on an anti-inflammatory diet with organic, fresh ingredients. The cuisine is mainly plant-based, with sustainably raised local fish, fowl, beef, and lamb. It is grain-free, dairy-free, and free of refined sweeteners. Guests can explore the garden with the chef and enjoy fresh herbs in drinks. The food is grown in crystal energy-infused soil, enhancing the healing experience.
 
 ---
 
 ## Serenity Ways Exclusive Benefits
 
-Complimentary spa treatment (60 min), daily organic breakfast, early check-in and late check-out (subject to availability).
+Upgrade at booking, daily breakfast, $100 USD hotel credit, complimentary airport transfers, welcome amenity, 20% tour discount, early check-in/late check-out, free Wi-Fi.
 
 [Explore on Serenity Ways](https://serenityways.com/collections/the-retreat-costa-rica)
 
@@ -48,41 +48,41 @@ Complimentary spa treatment (60 min), daily organic breakfast, early check-in an
 
 ## Practical Information
 
-**Location Highlights:** Perched on a quartz mountain with panoramic views of the Pacific, surrounded by lush rainforest and medicinal gardens, only 45 min from San José.  
-**Access:** 45-minute drive from Juan Santamaría International Airport (SJO); private transfers can be arranged.  
-**Family Friendly:** Adults-only (guests must be 18+).  
-**Pet Friendly:** No
+**Location Highlights:** Perched on a crystal mountain, The Retreat offers a unique energy and authentic staff, creating a family-like atmosphere.  
+**Access:** Address: Provincia de Alajuela - Atenas, Barrio Jesús. 700 metros Oeste de la entrada de Barroeta. Approx. 45 minutes from San José Airport.  
+**Family Friendly:** The Retreat welcomes guests above 16 years old.  
+**Pet Friendly:** The Retreat does not accommodate pets.
 
 ---
 
 ## Booking & Cancellation
 
-**Booking Policy:** A 50% deposit is required to confirm the booking, with the balance due upon arrival. Bookings made within 30 days of arrival require full payment.  
-**Cancellation Policy:** Cancellations made more than 30 days before arrival are refundable minus a $100 fee. Within 30 days, a credit is offered for a future stay within 12 months.
+**Booking Policy:** Normal rates: 30% pre-payment. Discounted rates: 100% pre-payment.  
+**Cancellation Policy:** Low season: cancel 7 days prior. High season: 15 days. Peak season: 30 days. Discounted rates: non-refundable, rebook within 6 months.
 
 ---
 
 ## FAQs
 
-**Q: Is The Retreat Costa Rica suitable for solo travelers?**
+**Q: What is the minimum stay requirement?**
 
-A: Yes, the intimate setting, guided activities and supportive staff make it ideal for solo guests seeking rest, reflection, and transformation.
+A: Minimum stay is 3 nights, with varying program durations available.
 
-**Q: Will I feel hungry on the detox program?**
+**Q: What wellness programs are offered?**
 
-A: No—meals are nutrient-dense, satisfying, and tailored to your wellness goals, ensuring gentle yet effective detox without deprivation.
+A: The hotel offers detox, stress management, Ayurveda therapies, and more.
 
-**Q: Is alcohol or caffeine allowed?**
+**Q: Is there an age requirement?**
 
-A: No, The Retreat follows a clean-living philosophy without alcohol or caffeine to promote detoxification and healing.
+A: The hotel is adults-only with a minimum age requirement of 16.
 
-**Q: What kind of treatments are offered at the spa?**
+**Q: What is included in the wellness packages?**
 
-A: Spa treatments range from crystal healing and aromatherapy to lymphatic drainage, facials, energy work, and organic body rituals.
+A: Packages include accommodation, full board, treatments, and consultations.
 
-**Q: Can I extend my stay or combine programs?**
+**Q: Can I come with a partner who does not participate in the wellness program?**
 
-A: Yes, stays and programs can be customized or extended based on availability and your health goals. Advisors help tailor the best fit.
+A: Yes, partners are welcome even if they do not participate in a program.
 
 
 ---

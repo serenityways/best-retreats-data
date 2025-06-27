@@ -1,46 +1,46 @@
 # Amanbagh
 
 **Location:** Ajabgarh, India  
-**Address:** Amanbagh Road, Ajabgarh, Alwar District, Rajasthan, India  
+**Address:** Ajabgarh, Rajasthan 301027, India  
 **Languages Spoken:** English, Hindi
 
 ---
 
 ## Summary
 
-Ultra luxury hotel in fortified palace-style villas offering Ayurveda, yoga, spa, and nature-immersion in Rajasthan.
+A hidden haven in Rajasthan for rest and rejuvenation, offering holistic wellness programs and Mughal-inspired architecture.
 
 ---
 
 ## Full Description
 
-Amanbagh is a serene luxury hotel nestled in a historic fortified oasis in Rajasthan, offering wellness programs. Set among lush gardens and Aravalli foothills, it offers Ayurveda, yoga, meditation, spa therapies, and immersive nature excursions. Guests stay in elegant haveli suites or pool pavilions and enjoy personalized wellness journeys alongside cultural and wildlife activities.
+Amanbagh, located in the serene Aravalli Hills of Rajasthan, India, offers a tranquil retreat with personalized wellness programs. The resort features Mughal-inspired architecture with domed cupolas and rose-tinted walls. Guests can indulge in yoga, meditation, and Ayurvedic treatments, complemented by nutritious meals made from locally sourced ingredients. Amanbagh provides a peaceful environment ideal for relaxation and wellness activities, with proximity to historical sites.
 
 ---
 
 ## Unique Strengths
 
-- **Historic Fortified Estate:** Stay in a beautifully restored 19th-century palace oasis nestled in citrus gardens and Aravalli foothills.
-- **Holistic Wellness Offerings:** Programs from 3–21 days include Ayurveda, yoga, detox and mindfulness amid nature-immersive experiences.
-- **Immerse in Rajasthani Culture:** Daily guided excursions to forts, local villages, wildlife reserves and sunrise yoga amid nature.
+- **Holistic Wellness Retreats:** Personalized programs with yoga, meditation, and Ayurvedic treatments to rejuvenate mind and body.
+- **Historic Mughal Architecture:** Designed like a Mughal palace with domed cupolas, courtyards, and rose-tinted walls for a regal ambiance.
+- **Secluded Natural Setting:** Nestled in the Aravalli Hills, surrounded by lush gardens offering tranquility and privacy.
 
 ---
 
 ## Health & Wellness Approach
 
-Amanbagh combines Ayurvedic wellness, yoga, meditation and spa therapies using Aman Spa’s natural treatments. Personalized programs balance detox, rejuvenation and mindfulness in a serene, culturally immersive setting.
+Amanbagh's wellness philosophy focuses on holistic healing with traditional Indian practices. Daily yoga and meditation sessions are offered, along with Ayurvedic treatments like massages and herbal therapies. Wellness immersions combine physical activities, spa therapies, and nutritional guidance tailored to individual goals, enhancing relaxation and rejuvenation.
 
 ---
 
 ## Nutrition Approach
 
-Amanbagh’s cuisine features fresh, local, organic produce from onsite gardens. Guests dine on Indian and Western menus crafted to support wellness programs like Ayurveda, detox and mindful eating.
+Amanbagh emphasizes fresh, locally sourced ingredients for nutritious meals. The menu includes Rajasthani and international dishes, focusing on balanced nutrition. Meals can be enjoyed in various settings, enhancing the dining experience. Personalized dietary consultations are available to tailor nutrition plans to individual preferences.
 
 ---
 
 ## Serenity Ways Exclusive Benefits
 
-Complimentary breakfast, arrival upgrade, early check-in/late check-out (subject to availability), 30‑min Champi head massage, 50‑min spa massage for two, and guided sunrise yoga sessions.
+Serenity Ways clients enjoy exclusive benefits at Amanbagh: upgrade on arrival, $100 USD resort credit, early check-in/late check-out, and complimentary Wi-Fi.
 
 [Explore on Serenity Ways](https://serenityways.com/collections/amanbagh)
 
@@ -48,41 +48,41 @@ Complimentary breakfast, arrival upgrade, early check-in/late check-out (subject
 
 ## Practical Information
 
-**Location Highlights:** Set in lush citrus gardens and Aravalli hills near Ajabgarh Fort; focal for wildlife safaris in Sariska and village cultural tours.  
-**Access:** Approx. 2 hrs by car from Jaipur Airport; héliport on-site; private transfers arranged.  
-**Family Friendly:** Yes, family-friendly hotel and villas; wellness programs are adult-tailored but children may accompany.  
-**Pet Friendly:** No
+**Location Highlights:** Countryside retreat in the Aravalli Hills, ideal for relaxation and wellness activities, near historical sites like Bhangarh Fort.  
+**Access:** Nearest international airport: Jaipur International Airport (JAI), approximately a 2-hour drive from the resort.  
+**Family Friendly:** Yes; children are welcome, and the resort offers family-friendly accommodations and activities.  
+**Pet Friendly:** No; pets are not allowed.
 
 ---
 
 ## Booking & Cancellation
 
-**Booking Policy:** Program and accommodation booked via Serenity Ways or Aman. Payment at time of booking; transfers arranged at extra cost.  
-**Cancellation Policy:** Free cancellation up to 7 days before; thereafter 100% cancellation fee.
+**Booking Policy:** A deposit of 50% of the total amount is required to confirm the booking.  
+**Cancellation Policy:** Cancellations made more than 14 days prior to arrival will receive a full refund. Cancellations made within 14 days of arrival will forfeit the deposit.
 
 ---
 
 ## FAQs
 
-**Q: What wellness programs are available?**
+**Q: What types of accommodations are available at Amanbagh?**
 
-A: Amanbagh offers Ayurveda, Yoga & Mindfulness, Detox & Cleansing, and Advanced Yoga Retreats, from 3 to 21 days.
+A: Guests can choose from elegant suites and pool pavilions inspired by Mughal architecture.
 
-**Q: Are the villas suitable for families?**
+**Q: What wellness programs are offered?**
 
-A: Yes, villas and havelis accommodate families; wellness activities are adult-focused.
+A: Programs include Ayurvedic therapies, yoga, and personalized wellness plans.
 
-**Q: Can I do yoga and meditation daily?**
+**Q: What dining options are available?**
 
-A: Yes, guided sunrise yoga and mindfulness sessions are included daily.
+A: Dining features Indian and international cuisines with ingredients sourced locally.
 
-**Q: Are excursions included?**
+**Q: What activities can guests enjoy?**
 
-A: Yes, guided excursions to forts, villages, wildlife reserves and camel safaris are part of wellness packages.
+A: Activities include cultural tours, nature walks, and camel safaris.
 
-**Q: Is Amanbagh pet-friendly?**
+**Q: Where is Amanbagh located?**
 
-A: No, pets are not allowed.
+A: It is located in the Alwar district of Rajasthan, India.
 
 
 ---
