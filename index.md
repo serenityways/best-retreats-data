@@ -211,15 +211,6 @@ Here is our curated selection of the best health and wellness hotels and clinics
 
 ---
 
-## Programs Now Listed
-
-Explore these initial transformative wellness programs, designed to align with your personalized health journey:
-
-- [ZEM Detox](./markdown/programs/zem-detox.md)  
-- [ZEM Essential](./markdown/programs/zem-essential.md)  
-
----
-
 ## About This Repository
 
 This repo houses JSON and Markdown files describing the best wellness clinics and programs available through Serenity Ways. Each clinic and program has its own detailed file, allowing easy updates and expansions over time.
