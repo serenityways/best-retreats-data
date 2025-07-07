@@ -1,0 +1,604 @@
+{
+  "clinics": {
+    "lanserhof_lans": {
+      "filename": "lanserhof-lans.json",
+      "region": "Austria",
+      "tags": [],
+      "programs": []
+    },
+    "mayrlife": {
+      "filename": "mayrlife.json",
+      "region": "Austria",
+      "tags": [],
+      "programs": []
+    },
+    "park_igls": {
+      "filename": "park-igls.json",
+      "region": "Austria",
+      "tags": [TBC],
+      "programs": []
+    },
+    "vivamayr": {
+      "filename": "vivamayr.json",
+      "region": "Austria",
+      "tags": [TBC],
+      "programs": []
+    },
+    "the_retreat_costa_rica": {
+      "filename": "the-retreat-costa-rica.json",
+      "region": "Costa Rica",
+      "tags": [],
+      "programs": []
+    },
+    "hotel_royal_evian": {
+      "filename": "hotel-royal-evian-resort.json",
+      "region": "France",
+      "tags": [],
+      "programs": []
+    },
+    "la_pensee_sauvage": {
+      "filename": "la-pensee-sauvage.json",
+      "region": "France",
+      "tags": [TBC],
+      "programs": []
+    },
+    "lily_of_the_valley": {
+      "filename": "lily-of-the-valley.json",
+      "region": "France",
+      "tags": [],
+      "programs": []
+    },
+    "la_reserve_ramatuelle": {
+      "filename": "la-reserve-ramatuelle.json",
+      "region": "France",
+      "tags": [],
+      "programs": []
+    },
+    "buchinger_germany": {
+      "filename": "buchinger.json",
+      "region": "Germany",
+      "tags": [TBC],
+      "programs": []
+    },
+    "lanserhof_sylt": {
+      "filename": "lanserhof-sylt.json",
+      "region": "Germany",
+      "tags": [],
+      "programs": []
+    },
+    "lanserhof_tegernsee": {
+      "filename": "lanserhof-tegernsee.json",
+      "region": "Germany",
+      "tags": [],
+      "programs": []
+    },
+    "schloss_elmau": {
+      "filename": "schloss-elmau.json",
+      "region": "Germany",
+      "tags": [TBC],
+      "programs": []
+    },
+    "villa_stephanie": {
+      "filename": "villa-stephanie.json",
+      "region": "Germany",
+      "tags": [],
+      "programs": []
+    },
+    "amazoe": {
+      "filename": "amazoe.json",
+      "region": "Greece",
+      "tags": [TBC],
+      "programs": []
+    },
+    "daios_cove": {
+      "filename": "daios-cove.json",
+      "region": "Greece",
+      "tags": [TBC],
+      "programs": []
+    },
+    "euphoria_retreat": {
+      "filename": "euphoria-retreat.json",
+      "region": "Greece",
+      "tags": [],
+      "programs": []
+    },
+    "amanbagh": {
+      "filename": "amanbagh.json",
+      "region": "India",
+      "tags": [],
+      "programs": []
+    },
+    "ananda": {
+      "filename": "ananda-spa.json",
+      "region": "India",
+      "tags": [],
+      "programs": []
+    },
+    "six_senses_vana": {
+      "filename": "six-senses-vana.json",
+      "region": "India",
+      "tags": [],
+      "programs": []
+    },
+    "amanwana": {
+      "filename": "amanwana.json",
+      "region": "Indonesia",
+      "tags": [TBC],
+      "programs": []
+    },
+    "como_shambhala_estate": {
+      "filename": "como-shambhala-estate.json",
+      "region": "Indonesia",
+      "tags": [],
+      "programs": []
+    },
+    "intaaya": {
+      "filename": "intaaya.json",
+      "region": "Indonesia",
+      "tags": [TBC],
+      "programs": []
+    },
+    "nihi_sumba": {
+      "filename": "nihi_sumba.json",
+      "region": "Indonesia",
+      "tags": [TBC],
+      "programs": []
+    },
+    "revivo": {
+      "filename": "revivo.json",
+      "region": "Indonesia",
+      "tags": [],
+      "programs": []
+    },
+    "adler_balance": {
+      "filename": "adler-balance.json",
+      "region": "Italy",
+      "tags": [],
+      "programs": []
+    },
+    "bagni_di_pisa": {
+      "filename": "bagni-di-pisa.json",
+      "region": "Italy",
+      "tags": [TBC],
+      "programs": []
+    },
+    "borgo_egnazia": {
+      "filename": "borgo-egnazia.json",
+      "region": "Italy",
+      "tags": [TBC],
+      "programs": []
+    },
+    "chenot_albereta": {
+      "filename": "chenot-espace-l-albereta.json",
+      "region": "Italy",
+      "tags": [],
+      "programs": []
+    },
+    "eremito": {
+      "filename": "eremito.json",
+      "region": "Italy",
+      "tags": [TBC],
+      "programs": []
+    },
+    "forestis": {
+      "filename": "forestis.json",
+      "region": "Italy",
+      "tags": [],
+      "programs": []
+    },
+    "grotta_giusti": {
+      "filename": "grotta-giusti.json",
+      "region": "Italy",
+      "tags": [TBC],
+      "programs": []
+    },
+    "lefay_dolomites": {
+      "filename": "lefay-dolomiti.json",
+      "region": "Italy",
+      "tags": [],
+      "programs": []
+    },
+    "lefay_lago_di_garda": {
+      "filename": "lefay-lago-di-garda.json",
+      "region": "Italy",
+      "tags": [],
+      "programs": []
+    },
+    "palace_merano": {
+      "filename": "palace-merano.json",
+      "region": "Italy",
+      "tags": [TBC],
+      "programs": []
+    },
+    "palazzo_fiuggi": {
+      "filename": "palazzo-fiuggi.json",
+      "region": "Italy",
+      "tags": [],
+      "programs": []
+    },
+    "preidlhof": {
+      "filename": "preidlhof.json",
+      "region": "Italy",
+      "tags": [TBC],
+      "programs": []
+    },
+    "terme_di_saturnia": {
+      "filename": "terme-di-saturnia.json",
+      "region": "Italy",
+      "tags": [],
+      "programs": []
+    },
+    "villa_eden": {
+      "filename": "villa-eden.json",
+      "region": "Italy",
+      "tags": [],
+      "programs": []
+    },
+    "royal_palm_beachcomber": {
+      "filename": "royal-palm-beachcomber.json",
+      "region": "Mauritius",
+      "tags": [],
+      "programs": []
+    },
+    "habitas_bacalar": {
+      "filename": "habitas-bacalar.json",
+      "region": "Mexico",
+      "tags": [],
+      "programs": []
+    },
+    "pamaia": {
+      "filename": "palmaia.json",
+      "region": "Mexico",
+      "tags": [],
+      "programs": []
+    },
+    "rancho_la_puerta": {
+      "filename": "rancho-la-puerta.json",
+      "region": "Mexico",
+      "tags": [TBC],
+      "programs": []
+    },
+    "sha_mexico": {
+      "filename": "sha-mexico.json",
+      "region": "Mexico",
+      "tags": [],
+      "programs": []
+    },
+    "zihfit": {
+      "filename": "zihfit.json",
+      "region": "Mexico",
+      "tags": [],
+      "programs": []
+    },
+    "ananda_nautilus": {
+      "filename": "ananda-nautilus.json",
+      "region": "Maldives",
+      "tags": [TBC],
+      "programs": []
+    },
+    "como_maalifushi": {
+      "filename": "como-maalifushi.json",
+      "region": "Maldives",
+      "tags": [TBC],
+      "programs": []
+    },
+    "ja_manafaru": {
+      "filename": "ja-manafaru.json",
+      "region": "Maldives",
+      "tags": [],
+      "programs": []
+    },
+    "joali_being": {
+      "filename": "joali-being.json",
+      "region": "Maldives",
+      "tags": [],
+      "programs": []
+    },
+    "soneva_fushi": {
+      "filename": "soneva-fushi.json",
+      "region": "Maldives",
+      "tags": [],
+      "programs": []
+    },
+  "chenot_espace_portonovi": {
+    "filename": "chenot-espace-portonovi.json",
+    "region": "Montenegro",
+    "tags": [],
+    "programs": []
+  },
+  "chenot_spa_selman": {
+    "filename": "chenot-spa-selman.json",
+    "region": "Morocco",
+    "tags": [TBC],
+    "programs": []
+  },
+  "royal_mansour_tamuda_bay": {
+    "filename": "royal-mansour-tamuda-bay.json",
+    "region": "Morocco",
+    "tags": [],
+    "programs": []
+  },
+  "zulal_discovery": {
+    "filename": "zulal-discovery.json",
+    "region": "Qatar",
+    "tags": [],
+    "programs": []
+  },
+  "zulal_serenity": {
+    "filename": "zulal-serenity.json",
+    "region": "Qatar",
+    "tags": [],
+    "programs": []
+  },
+  "casa_palmela": {
+    "filename": "casa-palmela.json",
+    "region": "Portugal",
+    "tags": [TBC],
+    "programs": []
+  },
+  "six_senses_douro_valley": {
+    "filename": "six-senses-douro-valley.json",
+    "region": "Portugal",
+    "tags": [],
+    "programs": []
+  },
+  "chi_longevity_four_seasons_singapore": {
+    "filename": "chi-longevity-four-seasons-singapore.json",
+    "region": "Singapore",
+    "tags": [],
+    "programs": []
+  },
+  "buchinger_wilhelmi": {
+    "filename": "buchinger-spain.json",
+    "region": "Spain",
+    "tags": [TBC],
+    "programs": []
+  },
+  "camiral": {
+    "filename": "camiral.json",
+    "region": "Spain",
+    "tags": [],
+    "programs": []
+  },
+  "marbella_club": {
+    "filename": "marbella_club.json",
+    "region": "Spain",
+    "tags": [],
+    "programs": []
+  },
+  "sha_spain": {
+    "filename": "sha-spain.json",
+    "region": "Spain",
+    "tags": [],
+    "programs": []
+  },
+  "shanti_som": {
+    "filename": "shanti-som.json",
+    "region": "Spain",
+    "tags": [TBC],
+    "programs": []
+  },
+  "six_senses_ibiza": {
+    "filename": "six-senses-ibiza.json",
+    "region": "Spain",
+    "tags": [],
+    "programs": []
+  },
+  "zem_wellness_clinic_altea": {
+    "filename": "zem-wellness-clinic-altea.json",
+    "region": "Spain",
+    "tags": [],
+    "programs": []
+  },
+  "le_barthelemy": {
+    "filename": "le-barthelemy.json",
+    "region": "St. Barth",
+    "tags": [TBC],
+    "programs": []
+  },
+  "rosewood_le_guanahani": {
+    "filename": "rosewood-le-guanahani.json",
+    "region": "St. Barth",
+    "tags": [TBC],
+    "programs": []
+  },
+  "amanwella": {
+    "filename": "amanwella.json",
+    "region": "Sri Lanka",
+    "tags": [TBC],
+    "programs": []
+  },
+  "amangalla": {
+    "filename": "amangalla.json",
+    "region": "Sri Lanka",
+    "tags": [TBC],
+    "programs": []
+  },
+  "santani": {
+    "filename": "santani.json",
+    "region": "Sri Lanka",
+    "tags": [TBC],
+    "programs": []
+  },
+  "kayaam_house": {
+    "filename": "kayaam-house.json",
+    "region": "Sri Lanka",
+    "tags": [],
+    "programs": []
+  },
+  "burgenstock": {
+    "filename": "burgenstock.json",
+    "region": "Switzerland",
+    "tags": [TBC],
+    "programs": []
+  },
+  "chenot_palace_weggis": {
+    "filename": "chenot-weggis.json",
+    "region": "Switzerland",
+    "tags": [],
+    "programs": []
+  },
+  "clinique_la_prairie": {
+    "filename": "clinique-la-prairie.json",
+    "region": "Switzerland",
+    "tags": [TBC],
+    "programs": []
+  },
+  "clinique_nescens": {
+    "filename": "clinique-nescens.json",
+    "region": "Switzerland",
+    "tags": [],
+    "programs": []
+  },
+  "grand_resort_bad_ragaz": {
+    "filename": "bad-ragaz.json",
+    "region": "Switzerland",
+    "tags": [],
+    "programs": []
+  },
+  "la_reserve_geneve": {
+    "filename": "la-reserve-geneve.json",
+    "region": "Switzerland",
+    "tags": [],
+    "programs": []
+  },
+  "amanpuri": {
+    "filename": "amanpuri.json",
+    "region": "Thailand",
+    "tags": [],
+    "programs": []
+  },
+  "chiva_som_hua_hin": {
+    "filename": "chiva-som-hua-hin.json",
+    "region": "Thailand",
+    "tags": [],
+    "programs": []
+  },
+  "rakxa": {
+    "filename": "rakxa.json",
+    "region": "Thailand",
+    "tags": [],
+    "programs": []
+  },
+  "kamalaya": {
+    "filename": "kamalaya.json",
+    "region": "Thailand",
+    "tags": [],
+    "programs": []
+  },
+  "clp_longevity_hub_dubai": {
+    "filename": "clp-dubai.json",
+    "region": "UAE",
+    "tags": [TBC],
+    "programs": []
+  },
+  "siro_dubai": {
+    "filename": "siro-one-zaabeel.json",
+    "region": "UAE",
+    "tags": [],
+    "programs": []
+  },
+  "the_bothy_by_wildsmith": {
+    "filename": "the-bothy.json",
+    "region": "UK",
+    "tags": [],
+    "programs": []
+  },
+  "glass_house": {
+    "filename": "glass-house.json",
+    "region": "UK",
+    "tags": [TBC],
+    "programs": []
+  },
+  "wild_wellness_gleneagles": {
+    "filename": "wild-wellness-gleneagles.json",
+    "region": "UK",
+    "tags": [TBC],
+    "programs": []
+  },
+  "yeotown": {
+    "filename": "yeotown.json",
+    "region": "UK",
+    "tags": [TBC],
+    "programs": []
+  },
+  "amangiri": {
+    "filename": "amangiri.json",
+    "region": "USA",
+    "tags": [TBC],
+    "programs": []
+  },
+  "cal_a_vie": {
+    "filename": "cal-a-vie.json",
+    "region": "USA",
+    "tags": [TBC],
+    "programs": []
+  },
+  "canyon_ranch_lenox": {
+    "filename": "canyon-ranch-lenox.json",
+    "region": "USA",
+    "tags": [],
+    "programs": []
+  },
+  "canyon_ranch_tucson": {
+    "filename": "canyon-ranch-tucson.json",
+    "region": "USA",
+    "tags": [],
+    "programs": []
+  },
+  "canyon_ranch_woodside": {
+    "filename": "canyon-ranch-woodside.json",
+    "region": "USA",
+    "tags": [],
+    "programs": []
+  },
+  "golden_door": {
+    "filename": "golden-door.json",
+    "region": "USA",
+    "tags": [TBC],
+    "programs": []
+  },
+  "mii_amo": {
+    "filename": "mii-amo.json",
+    "region": "USA",
+    "tags": [TBC],
+    "programs": []
+  },
+  "miraval_arizona": {
+    "filename": "miraval-arizona.json",
+    "region": "USA",
+    "tags": [TBC],
+    "programs": []
+  },
+  "miraval_austin": {
+    "filename": "miraval-austin.json",
+    "region": "USA",
+    "tags": [TBC],
+    "programs": []
+  },
+  "miraval_berkshires": {
+    "filename": "miraval-berkshires.json",
+    "region": "USA",
+    "tags": [TBC],
+    "programs": []
+  },
+  "the_ranch_hudson_valley": {
+    "filename": "the-ranch-hudson-valley.json",
+    "region": "USA",
+    "tags": [],
+    "programs": []
+  },
+  "the_ranch_malibu": {
+    "filename": "the-ranch-malibu.json",
+    "region": "USA",
+    "tags": [],
+    "programs": []
+  },
+  "six_senses_con_dao": {
+    "filename": "six-senses-con-dao.json",
+    "region": "Vietnam",
+    "tags": [],
+    "programs": []
+  }
+}
+
