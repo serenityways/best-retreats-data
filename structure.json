@@ -15,13 +15,13 @@
     "park_igls": {
       "filename": "park-igls.json",
       "region": "Austria",
-      "tags": [TBC],
+      "tags": ["TBC"],
       "programs": []
     },
     "vivamayr": {
       "filename": "vivamayr.json",
       "region": "Austria",
-      "tags": [TBC],
+      "tags": ["TBC"],
       "programs": []
     },
     "the_retreat_costa_rica": {
@@ -39,7 +39,7 @@
     "la_pensee_sauvage": {
       "filename": "la-pensee-sauvage.json",
       "region": "France",
-      "tags": [TBC],
+      "tags": ["TBC"],
       "programs": []
     },
     "lily_of_the_valley": {
@@ -57,7 +57,7 @@
     "buchinger_germany": {
       "filename": "buchinger.json",
       "region": "Germany",
-      "tags": [TBC],
+      "tags": ["TBC"],
       "programs": []
     },
     "lanserhof_sylt": {
@@ -75,7 +75,7 @@
     "schloss_elmau": {
       "filename": "schloss-elmau.json",
       "region": "Germany",
-      "tags": [TBC],
+      "tags": ["TBC"C],
       "programs": []
     },
     "villa_stephanie": {
@@ -87,13 +87,13 @@
     "amazoe": {
       "filename": "amazoe.json",
       "region": "Greece",
-      "tags": [TBC],
+      "tags": ["TBC"],
       "programs": []
     },
     "daios_cove": {
       "filename": "daios-cove.json",
       "region": "Greece",
-      "tags": [TBC],
+      "tags": ["TBC"],
       "programs": []
     },
     "euphoria_retreat": {
@@ -123,7 +123,7 @@
     "amanwana": {
       "filename": "amanwana.json",
       "region": "Indonesia",
-      "tags": [TBC],
+      "tags": ["TBC"],
       "programs": []
     },
     "como_shambhala_estate": {
@@ -135,13 +135,13 @@
     "intaaya": {
       "filename": "intaaya.json",
       "region": "Indonesia",
-      "tags": [TBC],
+      "tags": ["TBC"],
       "programs": []
     },
     "nihi_sumba": {
       "filename": "nihi_sumba.json",
       "region": "Indonesia",
-      "tags": [TBC],
+      "tags": ["TBC"],
       "programs": []
     },
     "revivo": {
@@ -159,13 +159,13 @@
     "bagni_di_pisa": {
       "filename": "bagni-di-pisa.json",
       "region": "Italy",
-      "tags": [TBC],
+      "tags": ["TBC"],
       "programs": []
     },
     "borgo_egnazia": {
       "filename": "borgo-egnazia.json",
       "region": "Italy",
-      "tags": [TBC],
+      "tags": ["TBC"],
       "programs": []
     },
     "chenot_albereta": {
@@ -177,7 +177,7 @@
     "eremito": {
       "filename": "eremito.json",
       "region": "Italy",
-      "tags": [TBC],
+      "tags": ["TBC"],
       "programs": []
     },
     "forestis": {
@@ -189,7 +189,7 @@
     "grotta_giusti": {
       "filename": "grotta-giusti.json",
       "region": "Italy",
-      "tags": [TBC],
+      "tags": ["TBC"],
       "programs": []
     },
     "lefay_dolomites": {
@@ -207,7 +207,7 @@
     "palace_merano": {
       "filename": "palace-merano.json",
       "region": "Italy",
-      "tags": [TBC],
+      "tags": ["TBC"],
       "programs": []
     },
     "palazzo_fiuggi": {
@@ -219,7 +219,7 @@
     "preidlhof": {
       "filename": "preidlhof.json",
       "region": "Italy",
-      "tags": [TBC],
+      "tags": ["TBC"],
       "programs": []
     },
     "terme_di_saturnia": {
@@ -255,7 +255,7 @@
     "rancho_la_puerta": {
       "filename": "rancho-la-puerta.json",
       "region": "Mexico",
-      "tags": [TBC],
+      "tags": ["TBC"],
       "programs": []
     },
     "sha_mexico": {
@@ -273,7 +273,7 @@
     "ananda_nautilus": {
       "filename": "ananda-nautilus.json",
       "region": "Maldives",
-      "tags": [TBC],
+      "tags": ["TBC"],
       "programs": []
     },
     "como_maalifushi": {
@@ -297,7 +297,7 @@
     "soneva_fushi": {
       "filename": "soneva-fushi.json",
       "region": "Maldives",
-      "tags": [],
+      "tags": ["TBC"],
       "programs": []
     },
   "chenot_espace_portonovi": {
@@ -309,7 +309,7 @@
   "chenot_spa_selman": {
     "filename": "chenot-spa-selman.json",
     "region": "Morocco",
-    "tags": [TBC],
+    "tags": ["TBC"],
     "programs": []
   },
   "royal_mansour_tamuda_bay": {
@@ -333,7 +333,7 @@
   "casa_palmela": {
     "filename": "casa-palmela.json",
     "region": "Portugal",
-    "tags": [TBC],
+    "tags": ["TBC"],
     "programs": []
   },
   "six_senses_douro_valley": {
@@ -351,7 +351,7 @@
   "buchinger_wilhelmi": {
     "filename": "buchinger-spain.json",
     "region": "Spain",
-    "tags": [TBC],
+    "tags": ["TBC"],
     "programs": []
   },
   "camiral": {
@@ -375,7 +375,7 @@
   "shanti_som": {
     "filename": "shanti-som.json",
     "region": "Spain",
-    "tags": [TBC],
+    "tags": ["TBC"],
     "programs": []
   },
   "six_senses_ibiza": {
@@ -393,31 +393,31 @@
   "le_barthelemy": {
     "filename": "le-barthelemy.json",
     "region": "St. Barth",
-    "tags": [TBC],
+    "tags": ["TBC"],
     "programs": []
   },
   "rosewood_le_guanahani": {
     "filename": "rosewood-le-guanahani.json",
     "region": "St. Barth",
-    "tags": [TBC],
+    "tags": ["TBC"],
     "programs": []
   },
   "amanwella": {
     "filename": "amanwella.json",
     "region": "Sri Lanka",
-    "tags": [TBC],
+    "tags": ["TBC"],
     "programs": []
   },
   "amangalla": {
     "filename": "amangalla.json",
     "region": "Sri Lanka",
-    "tags": [TBC],
+    "tags": ["TBC"],
     "programs": []
   },
   "santani": {
     "filename": "santani.json",
     "region": "Sri Lanka",
-    "tags": [TBC],
+    "tags": ["TBC"],
     "programs": []
   },
   "kayaam_house": {
@@ -429,7 +429,7 @@
   "burgenstock": {
     "filename": "burgenstock.json",
     "region": "Switzerland",
-    "tags": [TBC],
+    "tags": ["TBC"],
     "programs": []
   },
   "chenot_palace_weggis": {
@@ -441,7 +441,7 @@
   "clinique_la_prairie": {
     "filename": "clinique-la-prairie.json",
     "region": "Switzerland",
-    "tags": [TBC],
+    "tags": ["TBC"],
     "programs": []
   },
   "clinique_nescens": {
@@ -489,7 +489,7 @@
   "clp_longevity_hub_dubai": {
     "filename": "clp-dubai.json",
     "region": "UAE",
-    "tags": [TBC],
+    "tags": ["TBC"C],
     "programs": []
   },
   "siro_dubai": {
@@ -507,31 +507,31 @@
   "glass_house": {
     "filename": "glass-house.json",
     "region": "UK",
-    "tags": [TBC],
+    "tags": ["TBC"],
     "programs": []
   },
   "wild_wellness_gleneagles": {
     "filename": "wild-wellness-gleneagles.json",
     "region": "UK",
-    "tags": [TBC],
+    "tags": ["TBC"],
     "programs": []
   },
   "yeotown": {
     "filename": "yeotown.json",
     "region": "UK",
-    "tags": [TBC],
+    "tags": ["TBC"],
     "programs": []
   },
   "amangiri": {
     "filename": "amangiri.json",
     "region": "USA",
-    "tags": [TBC],
+    "tags": ["TBC"],
     "programs": []
   },
   "cal_a_vie": {
     "filename": "cal-a-vie.json",
     "region": "USA",
-    "tags": [TBC],
+    "tags": ["TBC"],
     "programs": []
   },
   "canyon_ranch_lenox": {
@@ -555,31 +555,31 @@
   "golden_door": {
     "filename": "golden-door.json",
     "region": "USA",
-    "tags": [TBC],
+    "tags": ["TBC"],
     "programs": []
   },
   "mii_amo": {
     "filename": "mii-amo.json",
     "region": "USA",
-    "tags": [TBC],
+    "tags": ["TBC"],
     "programs": []
   },
   "miraval_arizona": {
     "filename": "miraval-arizona.json",
     "region": "USA",
-    "tags": [TBC],
+    "tags": ["TBC"],
     "programs": []
   },
   "miraval_austin": {
     "filename": "miraval-austin.json",
     "region": "USA",
-    "tags": [TBC],
+    "tags": ["TBC"],
     "programs": []
   },
   "miraval_berkshires": {
     "filename": "miraval-berkshires.json",
     "region": "USA",
-    "tags": [TBC],
+    "tags": ["TBC"],
     "programs": []
   },
   "the_ranch_hudson_valley": {
